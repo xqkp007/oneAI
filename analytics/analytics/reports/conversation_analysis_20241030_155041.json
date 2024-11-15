@@ -1,0 +1,593 @@
+{
+  "analysis_results": [
+    {
+      "conversation_id": "af91515e-a7f3-4ada-9356-137ba19fa2f3",
+      "analysis_result": {
+        "id": "4426464a-ca10-41e6-b18e-247427d6b9d8",
+        "object": "chat.completion",
+        "created": 1730274597,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 373,
+          "completion_tokens": 6,
+          "total_tokens": 379,
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 373
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:49:57.275305"
+    },
+    {
+      "conversation_id": "98a2b796-4d94-414b-bcec-7a1127273e30",
+      "analysis_result": {
+        "id": "e4933f27-44b9-4a32-8a48-656d09b80101",
+        "object": "chat.completion",
+        "created": 1730274607,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 421,
+          "completion_tokens": 6,
+          "total_tokens": 427,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 293
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:07.308378"
+    },
+    {
+      "conversation_id": "619435d1-9c19-47be-bbf8-5045f8b8a659",
+      "analysis_result": {
+        "id": "d3d85b49-3fb5-44d1-a7f2-633c3d89407a",
+        "object": "chat.completion",
+        "created": 1730274607,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：\n- 异常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 450,
+          "completion_tokens": 9,
+          "total_tokens": 459,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 322
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:07.432910"
+    },
+    {
+      "conversation_id": "04ed0479-cce5-42ae-8bd9-89fa217fee1e",
+      "analysis_result": {
+        "id": "b02c0dc5-8e3b-4255-8b64-eeaefd079eb8",
+        "object": "chat.completion",
+        "created": 1730274607,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 485,
+          "completion_tokens": 6,
+          "total_tokens": 491,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 357
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:07.569433"
+    },
+    {
+      "conversation_id": "fc9c989c-36ad-4936-a861-e4b060c1d725",
+      "analysis_result": {
+        "id": "162d5c4e-1fb0-4529-ba76-18c30d6d8bf1",
+        "object": "chat.completion",
+        "created": 1730274617,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 489,
+          "completion_tokens": 6,
+          "total_tokens": 495,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 361
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:17.655961"
+    },
+    {
+      "conversation_id": "d6e80c9f-70db-497a-af2c-e42de4691979",
+      "analysis_result": {
+        "id": "0c018d0f-ca2a-4df9-8e7a-c9e36a6ef878",
+        "object": "chat.completion",
+        "created": 1730274617,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**: 正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 538,
+          "completion_tokens": 6,
+          "total_tokens": 544,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 410
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:17.705135"
+    },
+    {
+      "conversation_id": "925a5d55-17e3-4671-9991-d988fcbb3b44",
+      "analysis_result": {
+        "id": "cc87b7cc-f604-4fd4-ba88-f66e8eaf9d3a",
+        "object": "chat.completion",
+        "created": 1730274617,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**: 正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 476,
+          "completion_tokens": 6,
+          "total_tokens": 482,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 348
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:17.705965"
+    },
+    {
+      "conversation_id": "14ae181f-09b8-41e9-9add-a2745b9a89f6",
+      "analysis_result": {
+        "id": "7f04debc-0f93-47ec-bac1-8f8b07f6dabf",
+        "object": "chat.completion",
+        "created": 1730274617,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**: 正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 481,
+          "completion_tokens": 6,
+          "total_tokens": 487,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 353
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:17.708464"
+    },
+    {
+      "conversation_id": "76bbfa85-1b1d-4396-9e13-b595cbdef66c",
+      "analysis_result": {
+        "id": "abfdd92c-1817-4f13-9a9b-a5a13e2ba05f",
+        "object": "chat.completion",
+        "created": 1730274617,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 489,
+          "completion_tokens": 6,
+          "total_tokens": 495,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 361
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:17.710446"
+    },
+    {
+      "conversation_id": "dd88f16e-90ce-47cc-9797-1d05ad5d211a",
+      "analysis_result": {
+        "id": "75ac54fd-3d77-47da-87d0-b47c82820254",
+        "object": "chat.completion",
+        "created": 1730274617,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 957,
+          "completion_tokens": 6,
+          "total_tokens": 963,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 829
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:17.753428"
+    },
+    {
+      "conversation_id": "96449c2d-27df-4bdb-ae34-b2bb5907a93e",
+      "analysis_result": {
+        "id": "2a6aca8a-cdfc-4bf1-b04e-d520fdee03ab",
+        "object": "chat.completion",
+        "created": 1730274627,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 338,
+          "completion_tokens": 6,
+          "total_tokens": 344,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 210
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:27.278074"
+    },
+    {
+      "conversation_id": "1613b4d7-03ac-433c-bc25-e43f65a45ea2",
+      "analysis_result": {
+        "id": "c2a6204a-c7cc-4252-b95e-5ba8949514cf",
+        "object": "chat.completion",
+        "created": 1730274627,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 508,
+          "completion_tokens": 6,
+          "total_tokens": 514,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 380
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:27.278199"
+    },
+    {
+      "conversation_id": "f84b7b5f-e6dd-45d6-90e1-18a395f92f49",
+      "analysis_result": {
+        "id": "1bd16779-0131-4cd4-b1e8-1d00dc800538",
+        "object": "chat.completion",
+        "created": 1730274627,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 555,
+          "completion_tokens": 6,
+          "total_tokens": 561,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 427
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:27.279701"
+    },
+    {
+      "conversation_id": "eb198211-a9bc-4766-8b58-4e7196313f3e",
+      "analysis_result": {
+        "id": "d6a642ee-f247-4ee4-a165-d3794c558737",
+        "object": "chat.completion",
+        "created": 1730274627,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 274,
+          "completion_tokens": 6,
+          "total_tokens": 280,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 146
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:27.297494"
+    },
+    {
+      "conversation_id": "28c28a5a-2235-496a-8f14-0ca6df19bb54",
+      "analysis_result": {
+        "id": "f6c96428-c875-4035-8766-d1b8ba103054",
+        "object": "chat.completion",
+        "created": 1730274627,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 284,
+          "completion_tokens": 6,
+          "total_tokens": 290,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 156
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:27.301997"
+    },
+    {
+      "conversation_id": "9cd9b1ca-fdbf-42e3-b798-0dc22638820b",
+      "analysis_result": {
+        "id": "71b2a98e-c216-4af4-bcbe-b76eedb07733",
+        "object": "chat.completion",
+        "created": 1730274627,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 412,
+          "completion_tokens": 6,
+          "total_tokens": 418,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 284
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:27.303696"
+    },
+    {
+      "conversation_id": "c028d228-e63f-4e62-a6b5-4bfdbc3e17ee",
+      "analysis_result": {
+        "id": "456ce390-dea0-4714-a783-a3211c50ba67",
+        "object": "chat.completion",
+        "created": 1730274627,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 780,
+          "completion_tokens": 6,
+          "total_tokens": 786,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 652
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:27.400118"
+    },
+    {
+      "conversation_id": "8d8c4fe2-585d-4ab7-8854-45420c100413",
+      "analysis_result": {
+        "id": "a95c8490-f0d0-4fa2-b122-9f80303babbd",
+        "object": "chat.completion",
+        "created": 1730274637,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 432,
+          "completion_tokens": 6,
+          "total_tokens": 438,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 304
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:37.387077"
+    },
+    {
+      "conversation_id": "a6f29f4e-52d7-4926-a5ab-9eb8439f417f",
+      "analysis_result": {
+        "id": "84e20374-36d9-43ca-929a-369868d9cbf1",
+        "object": "chat.completion",
+        "created": 1730274637,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 329,
+          "completion_tokens": 6,
+          "total_tokens": 335,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 201
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:37.388788"
+    },
+    {
+      "conversation_id": "ae2275e0-0743-4c9a-9b19-3cafc83ba8f2",
+      "analysis_result": {
+        "id": "d7916437-bf94-4d04-9a13-6a8ce75a18e5",
+        "object": "chat.completion",
+        "created": 1730274637,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 272,
+          "completion_tokens": 6,
+          "total_tokens": 278,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 144
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T15:50:37.484768"
+    }
+  ],
+  "statistics": {
+    "status_counts": {
+      "正常": 19,
+      "异常": 1
+    },
+    "abnormal_conversations": [
+      "619435d1-9c19-47be-bbf8-5045f8b8a659"
+    ]
+  }
+}

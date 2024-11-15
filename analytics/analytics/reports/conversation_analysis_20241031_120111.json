@@ -1,0 +1,111 @@
+{
+  "timestamp": "2024-10-31T12:01:11.049487",
+  "total_conversations": 8,
+  "statistics": {
+    "status_counts": {
+      "正常": 4,
+      "异常": 4
+    },
+    "abnormal_rate": "50.00%"
+  },
+  "abnormal_conversations": [
+    {
+      "conversation_id": "ae9c1873-864f-4b79-a58e-96f778588915",
+      "external_user_id": "wm1NeYBwAApCN1Ha-cpYfg2ni3u2aHvA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T12:01:07.045603"
+    },
+    {
+      "conversation_id": "9fd96a27-636d-4377-ab75-55a588a0d1ed",
+      "external_user_id": "wm1NeYBwAA7c4zAk_WhYZhJNecQ-qPbg",
+      "question_obj": "物流配送",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T12:01:08.556731"
+    },
+    {
+      "conversation_id": "495787a4-ecb0-4e33-a8cd-40256fefb5f2",
+      "external_user_id": "wm1NeYBwAAVjm1_FsoKouJ6aF8CKqofg",
+      "question_obj": "订单咨询",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T12:01:09.905381"
+    },
+    {
+      "conversation_id": "a8442cbe-7b86-42fc-b2f4-b506d0e257ba",
+      "external_user_id": "wm1NeYBwAAmdUw7LzFog38Sb8XxJ_GEA",
+      "question_obj": "操作指引",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T12:01:11.045421"
+    }
+  ],
+  "all_conversations": [
+    {
+      "conversation_id": "28d2d554-5c14-4af4-882d-be18f54ab781",
+      "external_user_id": "wm1NeYBwAAU4fQ4an5sVS8sa3Gipj7UQ",
+      "question_obj": "服务投诉",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T12:01:06.152144"
+    },
+    {
+      "conversation_id": "ae9c1873-864f-4b79-a58e-96f778588915",
+      "external_user_id": "wm1NeYBwAApCN1Ha-cpYfg2ni3u2aHvA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T12:01:07.045603"
+    },
+    {
+      "conversation_id": "429239cd-e659-414a-ab3f-c910b5a58ebf",
+      "external_user_id": "wm1NeYBwAAl8KToL6FsoftmJYKDwIBTg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T12:01:08.248397"
+    },
+    {
+      "conversation_id": "9fd96a27-636d-4377-ab75-55a588a0d1ed",
+      "external_user_id": "wm1NeYBwAA7c4zAk_WhYZhJNecQ-qPbg",
+      "question_obj": "物流配送",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T12:01:08.556731"
+    },
+    {
+      "conversation_id": "495787a4-ecb0-4e33-a8cd-40256fefb5f2",
+      "external_user_id": "wm1NeYBwAAVjm1_FsoKouJ6aF8CKqofg",
+      "question_obj": "订单咨询",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T12:01:09.905381"
+    },
+    {
+      "conversation_id": "5b591cc8-f85b-43c4-948a-b8667b388069",
+      "external_user_id": "wm1NeYBwAAELCvlyKU1-uyi82vkQ8uVg",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T12:01:10.082616"
+    },
+    {
+      "conversation_id": "ae7eb7f4-e5c0-477e-9a12-ab369b91f39e",
+      "external_user_id": "wm1NeYBwAAZ30lkS2jzKiRXIFECjqcwQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T12:01:10.162203"
+    },
+    {
+      "conversation_id": "a8442cbe-7b86-42fc-b2f4-b506d0e257ba",
+      "external_user_id": "wm1NeYBwAAmdUw7LzFog38Sb8XxJ_GEA",
+      "question_obj": "操作指引",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T12:01:11.045421"
+    }
+  ]
+}

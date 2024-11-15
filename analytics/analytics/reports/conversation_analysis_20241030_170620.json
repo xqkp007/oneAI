@@ -1,0 +1,352 @@
+{
+  "analysis_results": [
+    {
+      "conversation_id": "351b673d-7aa0-4317-824a-f19031cf80ca",
+      "external_user_id": "wm1NeYBwAA24N-C7UGV1N0IDqeNigvag",
+      "question_obj": "维修",
+      "analysis_result": {
+        "id": "c30c6227-5e7a-4074-ba13-db36fb7b3629",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 345,
+          "completion_tokens": 6,
+          "total_tokens": 351,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 217
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:09.986316"
+    },
+    {
+      "conversation_id": "384351b7-c8d5-4189-ade7-48bcccffdf25",
+      "external_user_id": "wm1NeYBwAAU8qUPcREqzZrLOjwEeoiFw",
+      "question_obj": "操作指引",
+      "analysis_result": {
+        "id": "659541dd-fdaa-40df-b682-460932892fdb",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 726,
+          "completion_tokens": 6,
+          "total_tokens": 732,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 598
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:10.197070"
+    },
+    {
+      "conversation_id": "aecca111-b05e-47db-a44c-5a18a60c1745",
+      "external_user_id": "wm1NeYBwAABA93eS-36gRAlmZn6hLEdA",
+      "question_obj": "退款",
+      "analysis_result": {
+        "id": "2bf2a31a-ae23-43cf-9b93-c10afdb9cbf0",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 352,
+          "completion_tokens": 6,
+          "total_tokens": 358,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 224
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:10.203666"
+    },
+    {
+      "conversation_id": "c11e5a6d-5aff-4b4b-9d86-049d28624be2",
+      "external_user_id": "wm1NeYBwAA0jW-VyPpHHmzRmRBMUCQQA",
+      "question_obj": "促销活动",
+      "analysis_result": {
+        "id": "2ba3dee4-e579-4a9f-a068-73da8bca01fa",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1027,
+          "completion_tokens": 6,
+          "total_tokens": 1033,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 899
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:10.511839"
+    },
+    {
+      "conversation_id": "5630bfa5-73a4-4c5e-9092-89e10d9dd338",
+      "external_user_id": "wm1NeYBwAAIVUMHI9r0ESsGUOANq1-Zg",
+      "question_obj": "促销活动",
+      "analysis_result": {
+        "id": "effdf3a3-900c-4e02-883a-bf08780b56f7",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：异常\n\n**分析**：\n1. **用户是否表达不满**：用户在对话中没有表达不满情绪。\n2. **问题是否得到解决**：用户询问“接下来活动抵用15%要等几号”，但助手的回答是“这个目前还没接到具体通知呢”，并没有提供明确的活动日期或进一步的信息，问题没有得到解决。因此，判定为“异常”。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 498,
+          "completion_tokens": 94,
+          "total_tokens": 592,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 370
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:15.082007"
+    },
+    {
+      "conversation_id": "8afc3567-cf94-4cd8-baca-8a7e25ff2f6a",
+      "external_user_id": "wm1NeYBwAAQiSIfq3ofiYeiyDXWqdPAg",
+      "question_obj": "福利获取",
+      "analysis_result": {
+        "id": "01bb56aa-94ee-470b-b902-4559854844b4",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：异常\n\n**分析**：\n1. **用户是否表达不满**：\n   - 用户在对话中使用了“套路真多”这一表达，明显带有不满情绪。\n\n2. **问题是否得到解决**：\n   - 虽然助手提供了具体的操作步骤（登录必要商城小程序），但用户的不满情绪表明问题并未完全解决。\n\n由于用户表达了不满情绪，因此判定为“异常”。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 272,
+          "completion_tokens": 98,
+          "total_tokens": 370,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 144
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:15.096233"
+    },
+    {
+      "conversation_id": "0b540045-8555-4f2e-9a44-df2349290c91",
+      "external_user_id": "wm1NeYBwAARLIEq-HELkM5EybaQ9PjUQ",
+      "question_obj": "退换货",
+      "analysis_result": {
+        "id": "ad1ec1ad-95af-4919-b979-e1533bf4e61d",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：异常\n\n**分析**：\n1. **用户是否表达不满**：\n   - 用户在对话中提到“还没人联系我”，这表明用户对服务进度感到不满，因此符合“异常”情况。\n\n2. **问题是否得到解决**：\n   - 用户的问题（大衣褪色，希望售后处理）在对话中没有得到明确的解决，商家或平台人员尚未联系用户，因此也符合“异常”情况。\n\n综上所述，对话内容符合“异常”情况，因此输出结果为“异常”。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 420,
+          "completion_tokens": 125,
+          "total_tokens": 545,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 292
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:16.898141"
+    },
+    {
+      "conversation_id": "3f31d6c2-c7ef-4d0b-9d17-a9bd40d69c6a",
+      "external_user_id": "wm1NeYBwAApbtRDs0JhPo_QLY3r4VyaA",
+      "question_obj": "福利获取",
+      "analysis_result": {
+        "id": "2537412c-1cc1-4c74-86f7-9b5a18dbfedc",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果：异常**\n\n**分析：**\n1. **用户是否表达不满**：\n   - 用户在对话中使用了“[捂脸]”和“[呲牙]”等表情符号，这些表情符号通常表示用户的不满或困惑情绪。\n\n2. **问题是否得到解决**：\n   - 用户的问题是“下单后，没见有抽50元电影卷”，但在对话中，问题并没有得到明确的解决或解释。助手只是要求用户提供截图或重新扫码，但没有直接解决用户的疑问。\n\n因此，根据规则，判定为“异常”。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 501,
+          "completion_tokens": 135,
+          "total_tokens": 636,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 373
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:17.073331"
+    },
+    {
+      "conversation_id": "e0e3065b-350a-44c6-a924-415af6426d4f",
+      "external_user_id": "wm1NeYBwAA4sxLgY9NxyDTqDLoUCGg8A",
+      "question_obj": "订单咨询",
+      "analysis_result": {
+        "id": "daad1f65-57a6-455a-aadb-4229571536b8",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：异常\n\n**分析**：\n1. **用户是否表达不满**：\n   - 用户在对话中多次表达不满情绪，如“这个店不开了吗”、“双十一都没活动嘛”、“现在都看不见好东西了”、“为什么又不合作了”。\n\n2. **问题是否得到解决**：\n   - 用户的问题“这个店不开了吗”、“双十一都没活动嘛”、“为什么又不合作了”在对话中没有得到清晰、明确的解决。\n\n由于用户表达了不满情绪且问题没有得到解决，因此判定为“异常”。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 514,
+          "completion_tokens": 133,
+          "total_tokens": 647,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 386
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:17.093886"
+    },
+    {
+      "conversation_id": "a1451cce-82e3-4838-9394-efa6cb6b94cb",
+      "external_user_id": "wm1NeYBwAAWHy1p4iQajhEHZRCcw1v_Q",
+      "question_obj": "退换货",
+      "analysis_result": {
+        "id": "3b49aa4f-59f1-4bcc-8233-7632fbd9661c",
+        "object": "chat.completion",
+        "created": 1730279170,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：异常\n\n**分析**：\n1. **用户是否表达不满**：用户在对话中多次表达不满情绪，如“刚刚收到产品竟然都漏出来了”、“这箱子不是顺丰发来的，更换咋处理”、“我都没法操作要求，商家没法审核”等。\n2. **问题是否得到解决**：用户的问题在对话中没有得到清晰、明确的解决。用户提到“箱子扔了，那让顺丰包装好应该可以吧”，但管家没有明确回答这个问题，而是继续询问“商品原包装箱子扔了吗？”。此外，用户提到“app上卖家没法沟通，那重新购买怎么要求卖家检查好发货呢”，管家虽然表示会帮忙备注，但没有明确说明如何确保卖家检查好发货。\n\n综上所述，用户表达不满且问题未得到明确解决，因此判定为“异常”。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 986,
+          "completion_tokens": 194,
+          "total_tokens": 1180,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 858
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:06:20.402043"
+    }
+  ],
+  "statistics": {
+    "status_counts": {
+      "正常": 4,
+      "异常": 6
+    },
+    "abnormal_conversations": [
+      {
+        "conversation_id": "5630bfa5-73a4-4c5e-9092-89e10d9dd338",
+        "external_user_id": "wm1NeYBwAAIVUMHI9r0ESsGUOANq1-Zg",
+        "question_obj": "促销活动"
+      },
+      {
+        "conversation_id": "8afc3567-cf94-4cd8-baca-8a7e25ff2f6a",
+        "external_user_id": "wm1NeYBwAAQiSIfq3ofiYeiyDXWqdPAg",
+        "question_obj": "福利获取"
+      },
+      {
+        "conversation_id": "0b540045-8555-4f2e-9a44-df2349290c91",
+        "external_user_id": "wm1NeYBwAARLIEq-HELkM5EybaQ9PjUQ",
+        "question_obj": "退换货"
+      },
+      {
+        "conversation_id": "3f31d6c2-c7ef-4d0b-9d17-a9bd40d69c6a",
+        "external_user_id": "wm1NeYBwAApbtRDs0JhPo_QLY3r4VyaA",
+        "question_obj": "福利获取"
+      },
+      {
+        "conversation_id": "e0e3065b-350a-44c6-a924-415af6426d4f",
+        "external_user_id": "wm1NeYBwAA4sxLgY9NxyDTqDLoUCGg8A",
+        "question_obj": "订单咨询"
+      },
+      {
+        "conversation_id": "a1451cce-82e3-4838-9394-efa6cb6b94cb",
+        "external_user_id": "wm1NeYBwAAWHy1p4iQajhEHZRCcw1v_Q",
+        "question_obj": "退换货"
+      }
+    ]
+  }
+}

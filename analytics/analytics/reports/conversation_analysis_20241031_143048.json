@@ -1,0 +1,2199 @@
+{
+  "timestamp": "2024-10-31T14:30:48.134061",
+  "total_conversations": 226,
+  "statistics": {
+    "status_counts": {
+      "正常": 179,
+      "异常": 47
+    },
+    "abnormal_rate": "20.80%"
+  },
+  "abnormal_conversations": [
+    {
+      "conversation_id": "244e396b-3629-4ff7-b6ca-3dc909b71ee9",
+      "external_user_id": "wm1NeYBwAA_QrjMD8zRzhwK-m_RsbdMA",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:26:06.426451"
+    },
+    {
+      "conversation_id": "fb447aa5-86f5-4b2b-af9b-636a0dc07948",
+      "external_user_id": "wm1NeYBwAAyWTrqaoR9sDmjyK98H5HlA",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:26:17.820340"
+    },
+    {
+      "conversation_id": "1668c9c8-9c5f-404f-9560-29d0d613b3f6",
+      "external_user_id": "wm1NeYBwAANneD2YshVoHtQtIEW4z4aw",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:26:20.751173"
+    },
+    {
+      "conversation_id": "eb56b131-8ab9-41bf-a5c1-44c2fbc99501",
+      "external_user_id": "wm1NeYBwAAbeT1uENTsHMd50zVmjEe1A",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:26:31.387454"
+    },
+    {
+      "conversation_id": "a2987c6a-319a-4841-9cb3-d83ce8b1ea30",
+      "external_user_id": "wm1NeYBwAAfeTF-y1lm4ENdBv4doaaDg",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:26:35.231627"
+    },
+    {
+      "conversation_id": "8cc9f5f6-c500-41ee-a803-2ee73d966a97",
+      "external_user_id": "wm1NeYBwAA7_ewcv1r2wC6a2W-xs01Ng",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T14:26:35.727640"
+    },
+    {
+      "conversation_id": "e64cb6a6-b15f-433b-b361-5d9fb88a0420",
+      "external_user_id": "wm1NeYBwAAQ39mp1baF-kNifRmTZwgkQ",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:26:49.903165"
+    },
+    {
+      "conversation_id": "41503383-dee7-4073-99f6-62d913c52e57",
+      "external_user_id": "wm1NeYBwAANEIKnrOo1po6ku0lRoe4oA",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:27:09.847483"
+    },
+    {
+      "conversation_id": "67b8152d-ab93-4f4e-b3b8-216ef8c5744d",
+      "external_user_id": "wm1NeYBwAAfviHJmRlGgWyB8zOzSo4ew",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:21.382609"
+    },
+    {
+      "conversation_id": "54a9f2f2-2d71-4e9f-b65e-c09d455f6b34",
+      "external_user_id": "wm1NeYBwAA-divJ9p1Dt53AaAgGmVKPw",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:27:22.330821"
+    },
+    {
+      "conversation_id": "4d97ab80-c869-4d58-9838-bf7dc140f55a",
+      "external_user_id": "wm1NeYBwAA_xQj0mBKGvgswVul2eTAwA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:27.031034"
+    },
+    {
+      "conversation_id": "f0aec4b6-ae68-4257-871c-9b857813e56b",
+      "external_user_id": "wm1NeYBwAAzHTwkyOuh4MOD0YwyAz0bQ",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:28.239891"
+    },
+    {
+      "conversation_id": "bc278c55-81d0-4f75-a890-1990d1e42862",
+      "external_user_id": "wm1NeYBwAAMMDWFs3T9TfjNW6LiIWOcA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:27:34.972796"
+    },
+    {
+      "conversation_id": "0c2fcc5a-e0fd-460e-a41b-68660317d5b3",
+      "external_user_id": "wm1NeYBwAAx2hm3Vu5wyiB83kcai21fQ",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:37.925454"
+    },
+    {
+      "conversation_id": "3477f7c9-7a14-40b5-ad2d-c6b5fce5925c",
+      "external_user_id": "wm1NeYBwAAMVV5RjfKe4jLEsN6gNjGPA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:39.580659"
+    },
+    {
+      "conversation_id": "57e19bcf-9fd7-44a7-8e96-b6883bceee11",
+      "external_user_id": "wm1NeYBwAAIRI9iic1Ew-jE3SrNR49Ug",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:27:49.162646"
+    },
+    {
+      "conversation_id": "ff4da5ad-74e8-4698-b876-05fd15b16fe1",
+      "external_user_id": "wm1NeYBwAAUJCMb9QpToVuIBsD1OYnUQ",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:55.942125"
+    },
+    {
+      "conversation_id": "5cf4d721-9da1-41df-9e18-54476f32acf1",
+      "external_user_id": "wm1NeYBwAANk-BkJuu7PE3yJeInyKFcA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:27:59.768791"
+    },
+    {
+      "conversation_id": "18bd35fa-24ba-40dc-9867-5d5b5fcaa8cb",
+      "external_user_id": "wm1NeYBwAA5GwEpiaR0g4y-aUNyAukWg",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:00.745086"
+    },
+    {
+      "conversation_id": "1bf8bc79-d8a5-418d-a219-27c002f2f05d",
+      "external_user_id": "wm1NeYBwAA-GwqcLxJjpt_B9E4ywy-hg",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:01.205570"
+    },
+    {
+      "conversation_id": "5eb4837f-2942-4bef-a76f-b467c5cf4022",
+      "external_user_id": "wm1NeYBwAAfYqMwbz4_QGwveioRTT60Q",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:28:11.742619"
+    },
+    {
+      "conversation_id": "31f13731-291f-4aa2-8556-c3d7856f0054",
+      "external_user_id": "wm1NeYBwAA6TvA5PqwNHQKqk9wnnJ78g",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:13.247638"
+    },
+    {
+      "conversation_id": "61018506-d9e9-496a-a062-4a057870bbb1",
+      "external_user_id": "wm1NeYBwAAIRI9iic1Ew-jE3SrNR49Ug",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:19.897889"
+    },
+    {
+      "conversation_id": "aa8b8acd-bceb-4c14-839e-c3412fd40ae9",
+      "external_user_id": "wm1NeYBwAAKiWK_5uzLh-MmrUGARHijg",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:28:23.811708"
+    },
+    {
+      "conversation_id": "2b1432c4-fbb6-4a6a-bd0b-7a9c201cabb6",
+      "external_user_id": "wm1NeYBwAAzQC_2Aa5hV6THMQvkpCdPw",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:28:24.280943"
+    },
+    {
+      "conversation_id": "38bd3239-6865-4d01-8158-b888538f1674",
+      "external_user_id": "wm1NeYBwAAYOt-rC3CKLRS3r7XSnU_yA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:25.567152"
+    },
+    {
+      "conversation_id": "c7c0b546-2aa9-4cb4-b6cd-c8f185549b3e",
+      "external_user_id": "wm1NeYBwAAmtoQw5kgiplrz8xJH_NhaQ",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T14:28:32.945780"
+    },
+    {
+      "conversation_id": "f79eb7c8-3e73-4968-bbbb-61eac97a2291",
+      "external_user_id": "wm1NeYBwAANk-BkJuu7PE3yJeInyKFcA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.3,
+      "timestamp": "2024-10-31T14:28:33.523204"
+    },
+    {
+      "conversation_id": "6506bf82-e40b-4261-b23a-83c9f83ab0c2",
+      "external_user_id": "wm1NeYBwAAgNClGN0clYcnQzl3jvN69g",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T14:28:38.236238"
+    },
+    {
+      "conversation_id": "f7a6ed4f-cc21-4968-9d4d-36b619ef0762",
+      "external_user_id": "wm1NeYBwAAu3p1F9edTyOS_EWrkmJJyA",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:28:44.907499"
+    },
+    {
+      "conversation_id": "05ee27a7-9a36-486b-b8ef-cf65007b3c4b",
+      "external_user_id": "wm1NeYBwAAStQ0M91GPEXpzVqD3BFgOA",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:45.439286"
+    },
+    {
+      "conversation_id": "837d8dde-0bc6-4a4d-902b-c26de0ebe972",
+      "external_user_id": "wm1NeYBwAAaTVQAt9zLiaOmuzIP8H7vQ",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:45.917291"
+    },
+    {
+      "conversation_id": "1468b15a-fcd2-4d57-94dc-fc86e7896eeb",
+      "external_user_id": "wm1NeYBwAA7nwSaHGHvzS4jTXjf2gq7A",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:03.658450"
+    },
+    {
+      "conversation_id": "7d12c2bc-30f5-4fa7-99b0-18830132c172",
+      "external_user_id": "wm1NeYBwAA4BCg4iyqRdTo2DFbmuxDmQ",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:29:07.977850"
+    },
+    {
+      "conversation_id": "12614a22-5ae0-4199-9752-12b90097c8e9",
+      "external_user_id": "wm1NeYBwAAiKxym1380BUfc9HqqQzEBQ",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:08.603369"
+    },
+    {
+      "conversation_id": "5b244812-a432-4b85-9fc8-3cc958abb8a0",
+      "external_user_id": "wm1NeYBwAA9VLCn4b1Gx07wiKDLO5tjQ",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:29:10.553337"
+    },
+    {
+      "conversation_id": "ff3ae4b5-ed2a-4c53-b9da-8e1a5fcd0557",
+      "external_user_id": "wm1NeYBwAA0Tdt8r5SWtGxmuBs6zb0QA",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:29:11.603364"
+    },
+    {
+      "conversation_id": "43082f12-577a-4475-95ef-af31ef197dda",
+      "external_user_id": "wm1NeYBwAAIts8rSdk7qMFKOnJij11tA",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:21.687209"
+    },
+    {
+      "conversation_id": "b9e57ac5-759f-4ed2-acee-72d914fc2026",
+      "external_user_id": "wm1NeYBwAAJLSH3tgtxSxZDaL5lB6bOg",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:37.357436"
+    },
+    {
+      "conversation_id": "654a6136-7c89-4f90-a8ba-3cf32d912069",
+      "external_user_id": "wm1NeYBwAAyR2ZccSwn4FMm_A8_Hls3A",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:46.478253"
+    },
+    {
+      "conversation_id": "4951a6c2-97a9-4650-90f4-73e38d388f56",
+      "external_user_id": "wm1NeYBwAAGoiZFL6svaSC8xV8DaG5Gg",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:29:51.119357"
+    },
+    {
+      "conversation_id": "e88e30b3-779d-4e47-af99-6a8235b3fcbd",
+      "external_user_id": "wm1NeYBwAAHG-VUCHWmefvu67K5TBwsg",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 1.3,
+      "timestamp": "2024-10-31T14:29:52.112499"
+    },
+    {
+      "conversation_id": "0016032a-cf60-4077-8988-1066047a91a7",
+      "external_user_id": "wm1NeYBwAAtNDaau0ZLPtu0uxezOlRLQ",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:30:00.062389"
+    },
+    {
+      "conversation_id": "ea92c2ad-a388-4200-a8ca-70e94f11c765",
+      "external_user_id": "wm1NeYBwAA0QcOJoEwSCf88y-CEfRcnw",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T14:30:21.678950"
+    },
+    {
+      "conversation_id": "c1b34eda-14ad-40ab-a521-6a5c262ae760",
+      "external_user_id": "wm1NeYBwAAzGUiG_YMg52Y9B3FYTgW8A",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:30:28.337477"
+    },
+    {
+      "conversation_id": "53a066ec-a268-45cd-91da-0ea748a4b820",
+      "external_user_id": "wm1NeYBwAANCjSLuMvKzUodjv-QceDtQ",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:30:38.694827"
+    },
+    {
+      "conversation_id": "2b3f889e-2f57-4a09-a39d-f182275e0884",
+      "external_user_id": "wm1NeYBwAAADsQPyMrMHqiHD5rquEtGg",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:30:38.695504"
+    }
+  ],
+  "all_conversations": [
+    {
+      "conversation_id": "fec042b3-9ffe-48cb-9ded-3c827beaf15f",
+      "external_user_id": "wm1NeYBwAAyOpp0H8IqXcm_XeAr4TTlg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:04.104954"
+    },
+    {
+      "conversation_id": "3f1f46eb-ce77-4201-b9fb-9528a24969e0",
+      "external_user_id": "wm1NeYBwAAKPt45GYon9YuvIOZ4yqn6A",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.1,
+      "timestamp": "2024-10-31T14:26:04.942136"
+    },
+    {
+      "conversation_id": "9f545ae2-fd44-41e4-9326-7c44c04041aa",
+      "external_user_id": "wm1NeYBwAAjN_yNkxCK1Zo4By2-sRPMA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:05.952610"
+    },
+    {
+      "conversation_id": "244e396b-3629-4ff7-b6ca-3dc909b71ee9",
+      "external_user_id": "wm1NeYBwAA_QrjMD8zRzhwK-m_RsbdMA",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:26:06.426451"
+    },
+    {
+      "conversation_id": "905f8be2-9ca1-4b3f-9791-5901f5a9f479",
+      "external_user_id": "wm1NeYBwAA-k-owMRZlNiFB6r3VVf15Q",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:26:06.426980"
+    },
+    {
+      "conversation_id": "0ce45de3-d231-4744-9170-f636e83044c6",
+      "external_user_id": "wm1NeYBwAAFkQVOkYrVJA_QdTBttLlPA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:26:07.355723"
+    },
+    {
+      "conversation_id": "45dd2be8-4f10-4b2d-8bca-d5ec6927caf9",
+      "external_user_id": "wm1NeYBwAASIaaeDjAsxWY_4akiqFOzQ",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:26:07.356552"
+    },
+    {
+      "conversation_id": "3ccc7a63-dd3b-4fd2-b2c3-9a105048fb80",
+      "external_user_id": "wm1NeYBwAAO3BAt95XyYPcB1v9T9RdDQ",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:26:07.356552"
+    },
+    {
+      "conversation_id": "40ba3d31-b8e2-4199-9abc-9968d4381e2d",
+      "external_user_id": "wm1NeYBwAA2efyNqGMa_r2SUWzgifyYw",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:08.773340"
+    },
+    {
+      "conversation_id": "d4f4c09f-5ca1-45e4-b8c9-e5bf45f2d8c4",
+      "external_user_id": "wm1NeYBwAAvHnQam47UlsrdWchWqEtWw",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:26:09.288561"
+    },
+    {
+      "conversation_id": "af5b241c-4da7-4624-ab21-142a8aaa3f44",
+      "external_user_id": "wm1NeYBwAAcVggBnGQck4g4lo7WzZpvg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.0,
+      "timestamp": "2024-10-31T14:26:13.265922"
+    },
+    {
+      "conversation_id": "fb447aa5-86f5-4b2b-af9b-636a0dc07948",
+      "external_user_id": "wm1NeYBwAAyWTrqaoR9sDmjyK98H5HlA",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:26:17.820340"
+    },
+    {
+      "conversation_id": "b1054e30-f8b3-4ee0-8453-f59751478640",
+      "external_user_id": "wm1NeYBwAAP4YJ_OCU0w1xAtXht9_mKg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:26:19.539197"
+    },
+    {
+      "conversation_id": "1668c9c8-9c5f-404f-9560-29d0d613b3f6",
+      "external_user_id": "wm1NeYBwAANneD2YshVoHtQtIEW4z4aw",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:26:20.751173"
+    },
+    {
+      "conversation_id": "511fb4e2-daef-49c2-8c4c-7b19be0e2f8a",
+      "external_user_id": "wm1NeYBwAAkrn6w1OmcKsTENONILWtYg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:26:21.226336"
+    },
+    {
+      "conversation_id": "4f9ebea5-1512-4271-b5a2-f01813e70363",
+      "external_user_id": "wm1NeYBwAAtzUhlc6irk_drkM_EEzx_g",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:26:21.886228"
+    },
+    {
+      "conversation_id": "cdd98a72-8495-475c-88ed-0d67fec54c29",
+      "external_user_id": "wm1NeYBwAAMVv9qq0TslxYKQwLzgzxSg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:26:22.378211"
+    },
+    {
+      "conversation_id": "45c5811c-dc96-4f7b-a6fe-4468a14027e7",
+      "external_user_id": "wm1NeYBwAA7VHcrcV8oDOoAl60Cc0fFA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:26:22.378978"
+    },
+    {
+      "conversation_id": "bddf5cd7-80a2-413b-a85d-863e9f5e0da2",
+      "external_user_id": "wm1NeYBwAAoAPUmO-1Qge5nt1gwARM1Q",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:26:23.311953"
+    },
+    {
+      "conversation_id": "75931a8b-6358-4ecb-bdcd-7e5422f20915",
+      "external_user_id": "wm1NeYBwAAO3tyy27D4wB04llFW1PWvw",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:26:23.312708"
+    },
+    {
+      "conversation_id": "2d8657ea-5f8a-4faf-8c4c-6691d64d7ffc",
+      "external_user_id": "wm1NeYBwAAr9wxfhKLksXjZz-tnePRcw",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:26:26.660589"
+    },
+    {
+      "conversation_id": "fb2681ef-7249-4805-9b4b-e80cabe3517c",
+      "external_user_id": "wm1NeYBwAAQ6Aj7w_C-f--PpZ3VKvo1g",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:29.732544"
+    },
+    {
+      "conversation_id": "eb56b131-8ab9-41bf-a5c1-44c2fbc99501",
+      "external_user_id": "wm1NeYBwAAbeT1uENTsHMd50zVmjEe1A",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:26:31.387454"
+    },
+    {
+      "conversation_id": "97ebe0b9-27d5-400e-bd44-2bba23c05331",
+      "external_user_id": "wm1NeYBwAAGTO2zJ8KQy3UHJMT6i_daA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.0,
+      "timestamp": "2024-10-31T14:26:31.866920"
+    },
+    {
+      "conversation_id": "dc9d5d58-e17a-441a-8a3c-d88273a4bce8",
+      "external_user_id": "wm1NeYBwAANfkKXuD8g8uWOK6Ry1187g",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.1,
+      "timestamp": "2024-10-31T14:26:32.353320"
+    },
+    {
+      "conversation_id": "a2987c6a-319a-4841-9cb3-d83ce8b1ea30",
+      "external_user_id": "wm1NeYBwAAfeTF-y1lm4ENdBv4doaaDg",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:26:35.231627"
+    },
+    {
+      "conversation_id": "8cc9f5f6-c500-41ee-a803-2ee73d966a97",
+      "external_user_id": "wm1NeYBwAA7_ewcv1r2wC6a2W-xs01Ng",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T14:26:35.727640"
+    },
+    {
+      "conversation_id": "b5ab1548-a8f4-4d5f-8d32-01e490c9c45f",
+      "external_user_id": "wm1NeYBwAAEUWK3GMrcUFQD5fGhxkSUg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:26:35.728203"
+    },
+    {
+      "conversation_id": "0761053a-76df-4dd1-92a4-3440f694acba",
+      "external_user_id": "wm1NeYBwAAGTO2zJ8KQy3UHJMT6i_daA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:26:36.656910"
+    },
+    {
+      "conversation_id": "76b59133-8dca-4dc9-8161-026fb221b29b",
+      "external_user_id": "wm1NeYBwAAvlEOcZKbVoLU6fofWHhhVA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:37.615467"
+    },
+    {
+      "conversation_id": "334b22e6-9cb0-44de-b2d0-9e5fe9c60a99",
+      "external_user_id": "wm1NeYBwAApJLMRpLHTCOpJuOBoxdiMQ",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:40.744673"
+    },
+    {
+      "conversation_id": "1ebe75b3-d82f-44b5-a163-ccc0d2aa30d9",
+      "external_user_id": "wm1NeYBwAAGTO2zJ8KQy3UHJMT6i_daA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:26:42.934569"
+    },
+    {
+      "conversation_id": "7bc34819-bf1d-4780-9b07-05f44f31c001",
+      "external_user_id": "wm1NeYBwAAThcl9vla6HXKKft5Vcum3Q",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:26:43.412519"
+    },
+    {
+      "conversation_id": "ff9ba1d2-28ea-49d7-96d0-07aa918649e1",
+      "external_user_id": "wm1NeYBwAA7UDhC85U2Kqb9y4Pc8rV9A",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:44.919576"
+    },
+    {
+      "conversation_id": "05a475e6-8b03-410f-acfe-5d0a8a4714dd",
+      "external_user_id": "wm1NeYBwAAqDn-GllA-VM_mIViS7EJow",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:26:45.955552"
+    },
+    {
+      "conversation_id": "bc14548e-4987-4dc9-9dd6-d4a0a740c5aa",
+      "external_user_id": "wm1NeYBwAAxTMlbm_4uBOe2i-dN5pd_A",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:26:46.959320"
+    },
+    {
+      "conversation_id": "921ffa83-7d4c-4e7e-abb7-93e96a275083",
+      "external_user_id": "wm1NeYBwAAvUESulo_GPM1jVdTX3ohVQ",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:26:48.970294"
+    },
+    {
+      "conversation_id": "db58bae5-841e-4fa7-964c-1c2776cbd8dd",
+      "external_user_id": "wm1NeYBwAAeq4CMYYxhBV8DXMxk60r1Q",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:26:49.446681"
+    },
+    {
+      "conversation_id": "e64cb6a6-b15f-433b-b361-5d9fb88a0420",
+      "external_user_id": "wm1NeYBwAAQ39mp1baF-kNifRmTZwgkQ",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:26:49.903165"
+    },
+    {
+      "conversation_id": "b86344d6-412f-405b-aab0-0ebb5c0cef7e",
+      "external_user_id": "wm1NeYBwAACp17RxcvTOPNdBo32X5xJg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:26:49.903909"
+    },
+    {
+      "conversation_id": "f0488a1e-08d0-4cb9-baa8-292251ebe79e",
+      "external_user_id": "wm1NeYBwAAh3E4Neg_rsn3o9plOJo76w",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.0,
+      "timestamp": "2024-10-31T14:26:50.851688"
+    },
+    {
+      "conversation_id": "8aa4dc61-fde7-4466-96dc-29f02dc86b0d",
+      "external_user_id": "wm1NeYBwAAvlEOcZKbVoLU6fofWHhhVA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:54.591654"
+    },
+    {
+      "conversation_id": "9bdbe1ac-4d4b-4e16-998e-dd3fa97e6f9f",
+      "external_user_id": "wm1NeYBwAAUScHiyyfIO207RAtsI9KsQ",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:55.726311"
+    },
+    {
+      "conversation_id": "adfe85b9-6e07-4212-aa3f-1978fc4961bb",
+      "external_user_id": "wm1NeYBwAACPCok-PDoFnlDAOxXv6Txw",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:26:57.710688"
+    },
+    {
+      "conversation_id": "ca21fbbf-85a7-4094-8c87-3474df70647e",
+      "external_user_id": "wm1NeYBwAAbuN2nBuQ4rUNUeyVQh-9Kg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:26:58.207506"
+    },
+    {
+      "conversation_id": "3a6e8a14-d5fc-48d1-9d80-8ba26e52a346",
+      "external_user_id": "wm1NeYBwAATHzYNC70ojLNQIzP5Ek6Yg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:26:58.681072"
+    },
+    {
+      "conversation_id": "b0528db7-1d4e-41b4-8f7c-a98b41b0c3c6",
+      "external_user_id": "wm1NeYBwAAbIwnuQq6xUY18v3CPdyzHA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:27:01.600626"
+    },
+    {
+      "conversation_id": "8b63b6c0-9b53-4866-9e04-9478ea0f1122",
+      "external_user_id": "wm1NeYBwAA5jN2i2i0fPkG2UthLtio5A",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:27:02.207831"
+    },
+    {
+      "conversation_id": "d16771b0-4940-4d83-aa30-eb09cb8b47df",
+      "external_user_id": "wm1NeYBwAAx5pFDfW6a3V5O4yiyeV3_Q",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:27:02.684919"
+    },
+    {
+      "conversation_id": "b40ca4ed-4d60-420c-9fbb-108c6b042fe6",
+      "external_user_id": "wm1NeYBwAA1dbJEO4woEUKSn9RANVHGA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:03.343485"
+    },
+    {
+      "conversation_id": "f9f6a31b-7e1c-4704-b88c-03cef3b7a7c6",
+      "external_user_id": "wm1NeYBwAA8UaoamIeaEwGR7QGxE4Dyw",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": null,
+      "timestamp": "2024-10-31T14:27:07.511794"
+    },
+    {
+      "conversation_id": "b9cd12d3-c286-4d5b-b29c-0302a960b60b",
+      "external_user_id": "wm1NeYBwAAyhxJJ_OGXWQLDVx2bA-Rog",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:27:07.981351"
+    },
+    {
+      "conversation_id": "9b1f7a51-d39a-4983-8d6b-76de078efee9",
+      "external_user_id": "wm1NeYBwAAugjzw3Zy4ccXgg6weECdFg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:09.381801"
+    },
+    {
+      "conversation_id": "41503383-dee7-4073-99f6-62d913c52e57",
+      "external_user_id": "wm1NeYBwAANEIKnrOo1po6ku0lRoe4oA",
+      "question_obj": "报销",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:27:09.847483"
+    },
+    {
+      "conversation_id": "7ca0e6c8-81d2-424e-80b1-19ca53fd1298",
+      "external_user_id": "wm1NeYBwAAl2nT_iK_VwJlhR0ytmkvmA",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:09.848044"
+    },
+    {
+      "conversation_id": "52049f96-f3a9-4e79-a2ef-8aef77416e74",
+      "external_user_id": "wm1NeYBwAAC9NRNF8KzbNONBGA3C9BcQ",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:27:13.466006"
+    },
+    {
+      "conversation_id": "12f88412-ad4b-42df-9e48-e2aaba631637",
+      "external_user_id": "wm1NeYBwAAymU_129J6-58Mq3HJEqR7g",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:27:13.966453"
+    },
+    {
+      "conversation_id": "0bdeb7c2-7859-4a5a-95ca-d7c97d148d9b",
+      "external_user_id": "wm1NeYBwAAofxminKc5ldhn1049y3HDQ",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:27:14.437779"
+    },
+    {
+      "conversation_id": "ef3080f4-4466-4051-b592-c892a6ba241c",
+      "external_user_id": "wm1NeYBwAAX8w7aVcGjpwpMBEHA3RZ8w",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:27:14.895474"
+    },
+    {
+      "conversation_id": "bbf667da-884d-49d2-910b-c9e3fa6779bc",
+      "external_user_id": "wm1NeYBwAAMUHQeFybo-Pd3ZQSCgPPPg",
+      "question_obj": "报销",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:27:15.370902"
+    },
+    {
+      "conversation_id": "3a0079c1-1cf2-4702-8e38-62aa4e3dbb2e",
+      "external_user_id": "wm1NeYBwAAuKy-tlsrkwLJOpMnvvGBxw",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:20.908584"
+    },
+    {
+      "conversation_id": "67b8152d-ab93-4f4e-b3b8-216ef8c5744d",
+      "external_user_id": "wm1NeYBwAAfviHJmRlGgWyB8zOzSo4ew",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:21.382609"
+    },
+    {
+      "conversation_id": "91a19e11-378a-4522-9fef-d57d8b8bc135",
+      "external_user_id": "wm1NeYBwAAZHZSC6uAIwc4kXZQCjCTSQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:27:21.383132"
+    },
+    {
+      "conversation_id": "54a9f2f2-2d71-4e9f-b65e-c09d455f6b34",
+      "external_user_id": "wm1NeYBwAA-divJ9p1Dt53AaAgGmVKPw",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:27:22.330821"
+    },
+    {
+      "conversation_id": "fff655bc-66a0-40b4-b001-21d9553d3728",
+      "external_user_id": "wm1NeYBwAANUZFiR57SZORj_9ZEqzsNw",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": null,
+      "timestamp": "2024-10-31T14:27:22.807080"
+    },
+    {
+      "conversation_id": "a72e0c7c-8bc3-4b35-89d9-c0a1b9a3bf0c",
+      "external_user_id": "wm1NeYBwAAZvKXJpFEizUA5SnEx1zqXA",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:24.361528"
+    },
+    {
+      "conversation_id": "4d97ab80-c869-4d58-9838-bf7dc140f55a",
+      "external_user_id": "wm1NeYBwAA_xQj0mBKGvgswVul2eTAwA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:27.031034"
+    },
+    {
+      "conversation_id": "934b4bd2-6b16-4ff1-bdee-4cfb3abab8f2",
+      "external_user_id": "wm1NeYBwAALy9fuFswKA8bZ851LSwovQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:27:27.758803"
+    },
+    {
+      "conversation_id": "f0aec4b6-ae68-4257-871c-9b857813e56b",
+      "external_user_id": "wm1NeYBwAAzHTwkyOuh4MOD0YwyAz0bQ",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:28.239891"
+    },
+    {
+      "conversation_id": "334aeed5-24df-40ee-9509-650170a63076",
+      "external_user_id": "wm1NeYBwAAQrlCQqTPAk13Np0Mkb1Kkg",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:27:28.240477"
+    },
+    {
+      "conversation_id": "162e2c25-9f3a-4be5-b774-b19c40999d18",
+      "external_user_id": "wm1NeYBwAALk9mBVhsCiah88vV7vA3XQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:27:32.613047"
+    },
+    {
+      "conversation_id": "98c0e31e-0321-438b-8266-75bb4ec24b0e",
+      "external_user_id": "wm1NeYBwAAUJCMb9QpToVuIBsD1OYnUQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": null,
+      "timestamp": "2024-10-31T14:27:33.410267"
+    },
+    {
+      "conversation_id": "bc278c55-81d0-4f75-a890-1990d1e42862",
+      "external_user_id": "wm1NeYBwAAMMDWFs3T9TfjNW6LiIWOcA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:27:34.972796"
+    },
+    {
+      "conversation_id": "31071f58-2f24-4aba-811a-55b91bb54e5e",
+      "external_user_id": "wm1NeYBwAA-29xhLVhS2FvPQF6Dept9Q",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:27:36.006690"
+    },
+    {
+      "conversation_id": "695846b7-8cc6-43c8-8a6c-a3c12d2b50d1",
+      "external_user_id": "wm1NeYBwAAKZa-sQ9HAUTZqt4Agbv-aQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": null,
+      "timestamp": "2024-10-31T14:27:36.480522"
+    },
+    {
+      "conversation_id": "0c2fcc5a-e0fd-460e-a41b-68660317d5b3",
+      "external_user_id": "wm1NeYBwAAx2hm3Vu5wyiB83kcai21fQ",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:37.925454"
+    },
+    {
+      "conversation_id": "3477f7c9-7a14-40b5-ad2d-c6b5fce5925c",
+      "external_user_id": "wm1NeYBwAAMVV5RjfKe4jLEsN6gNjGPA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:39.580659"
+    },
+    {
+      "conversation_id": "bc92c7cd-3805-437d-990f-10fdcd85ec9d",
+      "external_user_id": "wm1NeYBwAA-JMKKS5_7OHYo6whkDgEKQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:27:41.021698"
+    },
+    {
+      "conversation_id": "ca6a8204-2b03-4458-8789-1035643c270a",
+      "external_user_id": "wm1NeYBwAAe9jZzIxX0lp93b6loMfO6Q",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:27:41.493748"
+    },
+    {
+      "conversation_id": "e25a197f-423c-4f56-9598-c4bc196de00e",
+      "external_user_id": "wm1NeYBwAAB8glZ9jRnQ2bKwun8Fxtvg",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:42.264031"
+    },
+    {
+      "conversation_id": "7f8ded1c-cc2b-4043-a4ce-151dd6983146",
+      "external_user_id": "wm1NeYBwAA9KU2H57CUKwKkKgJNLtT7Q",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:27:42.730737"
+    },
+    {
+      "conversation_id": "c3c34bee-3258-49c9-a4d4-80f7b0e38ad9",
+      "external_user_id": "wm1NeYBwAAMQJwRTn4Z_uwDF-9N7bJbg",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:27:45.027479"
+    },
+    {
+      "conversation_id": "adedf52b-9eb4-492a-a367-10171fe1c7ea",
+      "external_user_id": "wm1NeYBwAAjerrIV8vWbHbWrQh-CgJRw",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:47.590672"
+    },
+    {
+      "conversation_id": "dac4e4b6-2b51-4c11-80a6-41aab8f35ffa",
+      "external_user_id": "wm1NeYBwAA42cOk6sZxM_VwVRS006B4A",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:48.061317"
+    },
+    {
+      "conversation_id": "57e19bcf-9fd7-44a7-8e96-b6883bceee11",
+      "external_user_id": "wm1NeYBwAAIRI9iic1Ew-jE3SrNR49Ug",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:27:49.162646"
+    },
+    {
+      "conversation_id": "93bf42d0-eee7-44a6-9c4e-c00d6373e5e7",
+      "external_user_id": "wm1NeYBwAATfbwN82VcIRf2WXg3ks6Wg",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:50.204555"
+    },
+    {
+      "conversation_id": "c2b0ed50-0659-482d-b46a-b9f38b76fbd0",
+      "external_user_id": "wm1NeYBwAAS_CPKa4fIv2jbn8Tbbk2sA",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:27:51.752135"
+    },
+    {
+      "conversation_id": "111cad67-97be-42a9-8d61-b22a5de31b6e",
+      "external_user_id": "wm1NeYBwAAnr9_tI_BrAOjo8I009_ONQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:27:54.194776"
+    },
+    {
+      "conversation_id": "a5816b06-059c-4af5-85b1-6f869abbe50b",
+      "external_user_id": "wm1NeYBwAAvz-4vqYAdiZGuUXkUx2utQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:54.663085"
+    },
+    {
+      "conversation_id": "b97a0293-923f-4ebe-9d03-c60ae8da9a3e",
+      "external_user_id": "wm1NeYBwAAqIe3p0jdUleJ_g8E8Z-PUg",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:27:55.133381"
+    },
+    {
+      "conversation_id": "ff4da5ad-74e8-4698-b876-05fd15b16fe1",
+      "external_user_id": "wm1NeYBwAAUJCMb9QpToVuIBsD1OYnUQ",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:27:55.942125"
+    },
+    {
+      "conversation_id": "5cf4d721-9da1-41df-9e18-54476f32acf1",
+      "external_user_id": "wm1NeYBwAANk-BkJuu7PE3yJeInyKFcA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:27:59.768791"
+    },
+    {
+      "conversation_id": "18bd35fa-24ba-40dc-9867-5d5b5fcaa8cb",
+      "external_user_id": "wm1NeYBwAA5GwEpiaR0g4y-aUNyAukWg",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:00.745086"
+    },
+    {
+      "conversation_id": "41ebf016-7fee-4514-847a-3f76ff4f97e3",
+      "external_user_id": "wm1NeYBwAAVz2xvUtUwNZI54-2jnKvFQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:01.204995"
+    },
+    {
+      "conversation_id": "1bf8bc79-d8a5-418d-a219-27c002f2f05d",
+      "external_user_id": "wm1NeYBwAA-GwqcLxJjpt_B9E4ywy-hg",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:01.205570"
+    },
+    {
+      "conversation_id": "643d3973-e813-441b-a0cb-81a64958ac55",
+      "external_user_id": "wm1NeYBwAALe29Doh_5DHzKMptmqqewQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:28:04.142920"
+    },
+    {
+      "conversation_id": "b2fe8cc6-763e-40fa-b107-00bd4bd9fdff",
+      "external_user_id": "wm1NeYBwAAyhXKGncRaeqOzwWwD64rkA",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:05.919279"
+    },
+    {
+      "conversation_id": "c194665b-cb7d-4976-a3ec-5d5a5e5fbff2",
+      "external_user_id": "wm1NeYBwAAoKTSK14v5tMeuMwkEeEJ_Q",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:28:06.832610"
+    },
+    {
+      "conversation_id": "c6b6d742-7d3f-474d-be92-2fe164a91508",
+      "external_user_id": "wm1NeYBwAAaD6FnWzGTDQhvzsYwaR_Qg",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:07.845793"
+    },
+    {
+      "conversation_id": "081f3e2c-f919-43e9-8c26-8a82c31ff624",
+      "external_user_id": "wm1NeYBwAA5R64PQPKFXOy0Q1kNRI2bQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:08.359080"
+    },
+    {
+      "conversation_id": "5eb4837f-2942-4bef-a76f-b467c5cf4022",
+      "external_user_id": "wm1NeYBwAAfYqMwbz4_QGwveioRTT60Q",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:28:11.742619"
+    },
+    {
+      "conversation_id": "70f56219-1dda-4ef9-93b1-1245dc9ce44d",
+      "external_user_id": "wm1NeYBwAATixSdBKw8eWyvA8C01v57w",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:12.245174"
+    },
+    {
+      "conversation_id": "31f13731-291f-4aa2-8556-c3d7856f0054",
+      "external_user_id": "wm1NeYBwAA6TvA5PqwNHQKqk9wnnJ78g",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:13.247638"
+    },
+    {
+      "conversation_id": "b09187c5-9e43-4538-950d-e8c641e7a2fd",
+      "external_user_id": "wm1NeYBwAAflgFIB-JLgruK7KWRMTK4w",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:13.806118"
+    },
+    {
+      "conversation_id": "ff750d82-a0ca-4b48-95c8-26ebea1c4e49",
+      "external_user_id": "wm1NeYBwAAGV1iJliwkeqHnlJLszb-GA",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:14.279153"
+    },
+    {
+      "conversation_id": "d3e99469-5cab-4eb9-b07d-139be9706120",
+      "external_user_id": "wm1NeYBwAAPnrkYr9KTMqaGewJuBWVrQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:14.966752"
+    },
+    {
+      "conversation_id": "34d3d64c-efb9-4683-8cde-e33dab94c91e",
+      "external_user_id": "wm1NeYBwAAiQUMDrS9Hz0Fu9NTiu7YjA",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:28:17.450539"
+    },
+    {
+      "conversation_id": "61018506-d9e9-496a-a062-4a057870bbb1",
+      "external_user_id": "wm1NeYBwAAIRI9iic1Ew-jE3SrNR49Ug",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:19.897889"
+    },
+    {
+      "conversation_id": "0d84fbc6-6aaf-4f43-9dda-ba3484275971",
+      "external_user_id": "wm1NeYBwAAgXII6IOjl_YgLUvXymA9Cg",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:21.577808"
+    },
+    {
+      "conversation_id": "aa8b8acd-bceb-4c14-839e-c3412fd40ae9",
+      "external_user_id": "wm1NeYBwAAKiWK_5uzLh-MmrUGARHijg",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:28:23.811708"
+    },
+    {
+      "conversation_id": "2b1432c4-fbb6-4a6a-bd0b-7a9c201cabb6",
+      "external_user_id": "wm1NeYBwAAzQC_2Aa5hV6THMQvkpCdPw",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:28:24.280943"
+    },
+    {
+      "conversation_id": "08da9857-1c4b-4617-9327-ebe75fab541b",
+      "external_user_id": "wm1NeYBwAAe9jZzIxX0lp93b6loMfO6Q",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:28:24.958864"
+    },
+    {
+      "conversation_id": "38bd3239-6865-4d01-8158-b888538f1674",
+      "external_user_id": "wm1NeYBwAAYOt-rC3CKLRS3r7XSnU_yA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:25.567152"
+    },
+    {
+      "conversation_id": "63def4e3-db28-43c1-a249-0d15f0d5f3f1",
+      "external_user_id": "wm1NeYBwAAKZa-sQ9HAUTZqt4Agbv-aQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:27.998013"
+    },
+    {
+      "conversation_id": "b24d0be5-f17f-406c-aba5-bccd4a2adcd8",
+      "external_user_id": "wm1NeYBwAAyYC9rxAAo5GZCQ2VrQxQYg",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:30.185748"
+    },
+    {
+      "conversation_id": "57188520-1867-4b19-9ef8-8a0a44aba014",
+      "external_user_id": "wm1NeYBwAAtR11msH3B6Rb6EDJfkdQKA",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:31.940706"
+    },
+    {
+      "conversation_id": "c7c0b546-2aa9-4cb4-b6cd-c8f185549b3e",
+      "external_user_id": "wm1NeYBwAAmtoQw5kgiplrz8xJH_NhaQ",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T14:28:32.945780"
+    },
+    {
+      "conversation_id": "f79eb7c8-3e73-4968-bbbb-61eac97a2291",
+      "external_user_id": "wm1NeYBwAANk-BkJuu7PE3yJeInyKFcA",
+      "question_obj": "维修",
+      "status": "异常",
+      "total_score": 1.3,
+      "timestamp": "2024-10-31T14:28:33.523204"
+    },
+    {
+      "conversation_id": "200c893a-61bb-40dd-879f-b7b5066eba9a",
+      "external_user_id": "wm1NeYBwAAnRPBaQ2izxpR22LGc87LZQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:28:34.621979"
+    },
+    {
+      "conversation_id": "c2bfae23-5e66-449c-92ab-d1c0bc1ceb67",
+      "external_user_id": "wm1NeYBwAAnRPBaQ2izxpR22LGc87LZQ",
+      "question_obj": "维修",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:35.624159"
+    },
+    {
+      "conversation_id": "a7ddf72c-7fb9-48da-acfc-904559454d07",
+      "external_user_id": "wm1NeYBwAAv4oHqZifzWGWtmLL4xThZQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:36.594375"
+    },
+    {
+      "conversation_id": "6506bf82-e40b-4261-b23a-83c9f83ab0c2",
+      "external_user_id": "wm1NeYBwAAgNClGN0clYcnQzl3jvN69g",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T14:28:38.236238"
+    },
+    {
+      "conversation_id": "49951371-4766-4450-8114-a2300475f0d6",
+      "external_user_id": "wm1NeYBwAAQn_RH8zdg0JwNVUxRxZlpg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:28:38.745808"
+    },
+    {
+      "conversation_id": "7a918bd6-c37c-4334-a315-e012850ab57f",
+      "external_user_id": "wm1NeYBwAAEv9RPHHGI_y2tBBN9qii7g",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:28:41.411854"
+    },
+    {
+      "conversation_id": "f49973f4-7efe-43e0-9d8a-bedc9381381c",
+      "external_user_id": "wm1NeYBwAAhKTOz4nxe9Aa-4nlKJEs3Q",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:43.479747"
+    },
+    {
+      "conversation_id": "0ee88d08-02e7-472e-bace-53ec9a40c99a",
+      "external_user_id": "wm1NeYBwAAgwnM5TyIVUVMgR5ySTyUaw",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:28:44.419088"
+    },
+    {
+      "conversation_id": "f7a6ed4f-cc21-4968-9d4d-36b619ef0762",
+      "external_user_id": "wm1NeYBwAAu3p1F9edTyOS_EWrkmJJyA",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:28:44.907499"
+    },
+    {
+      "conversation_id": "05ee27a7-9a36-486b-b8ef-cf65007b3c4b",
+      "external_user_id": "wm1NeYBwAAStQ0M91GPEXpzVqD3BFgOA",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:45.439286"
+    },
+    {
+      "conversation_id": "837d8dde-0bc6-4a4d-902b-c26de0ebe972",
+      "external_user_id": "wm1NeYBwAAaTVQAt9zLiaOmuzIP8H7vQ",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:28:45.917291"
+    },
+    {
+      "conversation_id": "71c5ac19-97fb-4f15-9b59-cbeadf087b8b",
+      "external_user_id": "wm1NeYBwAAeaaaedBsBHAPUt0ukmLyVg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:28:47.213345"
+    },
+    {
+      "conversation_id": "6e836b1d-9d73-4638-8942-f4ae88da43ee",
+      "external_user_id": "wm1NeYBwAA9QvQaJpgMHrRI7Rxw6PSPw",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:28:47.681780"
+    },
+    {
+      "conversation_id": "883ead07-443b-4c42-86e4-f25401400fe6",
+      "external_user_id": "wm1NeYBwAA8V3qJAantFrxJjgJBdkfhA",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:50.258812"
+    },
+    {
+      "conversation_id": "bf55f5b5-14a4-45fb-a531-83fb9dafa2ae",
+      "external_user_id": "wm1NeYBwAA2RX0Wq1Fci94PEVgohcWhQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:28:51.898815"
+    },
+    {
+      "conversation_id": "8ca18c32-d2d1-443f-b82c-811b0bcdbdaf",
+      "external_user_id": "wm1NeYBwAAFFUkNvc3Uyw4ZzDnoTuyRw",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:53.168088"
+    },
+    {
+      "conversation_id": "68fe08db-4405-41cf-95e0-78dddc804071",
+      "external_user_id": "wm1NeYBwAAWzQK8h4JmZapnsmKGlSB2w",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:28:54.394526"
+    },
+    {
+      "conversation_id": "c343e34e-3eae-40cf-be41-b51283fd12f7",
+      "external_user_id": "wm1NeYBwAAZAoLF9jOS7nINo-o7X0sWQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:28:55.540795"
+    },
+    {
+      "conversation_id": "01851e42-2ae7-4e53-8a3e-055a6bb627c4",
+      "external_user_id": "wm1NeYBwAAuUZHi6SWPmfuM5E5lUbAIA",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:28:56.735149"
+    },
+    {
+      "conversation_id": "7cba79a1-0778-4d25-a835-bb1c998b524a",
+      "external_user_id": "wm1NeYBwAA_tWkdY-sz0EMjPi2C-mFwQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.1,
+      "timestamp": "2024-10-31T14:28:58.223034"
+    },
+    {
+      "conversation_id": "5d5d2510-b3ce-4341-9f22-5fd608ac3384",
+      "external_user_id": "wm1NeYBwAAyH0g4-cXjnCFsvBE6_-Z4Q",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": null,
+      "timestamp": "2024-10-31T14:28:58.796775"
+    },
+    {
+      "conversation_id": "893652db-c1c5-4fcb-acf7-8d4e1217c3ca",
+      "external_user_id": "wm1NeYBwAA4BCg4iyqRdTo2DFbmuxDmQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": null,
+      "timestamp": "2024-10-31T14:28:59.270386"
+    },
+    {
+      "conversation_id": "f9b9970a-5f21-41a1-98ec-9ed3481cd335",
+      "external_user_id": "wm1NeYBwAAKq4OY7tPFuFwpCSgp28Ipg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:00.006995"
+    },
+    {
+      "conversation_id": "2cc721d8-2052-4acd-b9a0-0889f3931093",
+      "external_user_id": "wm1NeYBwAA4RJJvYo0RQp4dQRrMroDqw",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:03.014872"
+    },
+    {
+      "conversation_id": "1468b15a-fcd2-4d57-94dc-fc86e7896eeb",
+      "external_user_id": "wm1NeYBwAA7nwSaHGHvzS4jTXjf2gq7A",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:03.658450"
+    },
+    {
+      "conversation_id": "802fcf01-4224-4d32-a47c-95eae69b9f9c",
+      "external_user_id": "wm1NeYBwAA3_AluLerCYRM0BIs8rD9KA",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:29:04.469674"
+    },
+    {
+      "conversation_id": "729f394a-be07-4d2f-adf8-17db4cdbe299",
+      "external_user_id": "wm1NeYBwAA7JIrgaaePGVN0gRQULy31Q",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:29:04.948587"
+    },
+    {
+      "conversation_id": "7d12c2bc-30f5-4fa7-99b0-18830132c172",
+      "external_user_id": "wm1NeYBwAA4BCg4iyqRdTo2DFbmuxDmQ",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:29:07.977850"
+    },
+    {
+      "conversation_id": "12614a22-5ae0-4199-9752-12b90097c8e9",
+      "external_user_id": "wm1NeYBwAAiKxym1380BUfc9HqqQzEBQ",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:08.603369"
+    },
+    {
+      "conversation_id": "8570b23d-b717-49e6-b2d4-21f4841e121d",
+      "external_user_id": "wm1NeYBwAA5hnG01jhleAWnyF32rakLw",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:29:09.098345"
+    },
+    {
+      "conversation_id": "5b244812-a432-4b85-9fc8-3cc958abb8a0",
+      "external_user_id": "wm1NeYBwAA9VLCn4b1Gx07wiKDLO5tjQ",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:29:10.553337"
+    },
+    {
+      "conversation_id": "ff3ae4b5-ed2a-4c53-b9da-8e1a5fcd0557",
+      "external_user_id": "wm1NeYBwAA0Tdt8r5SWtGxmuBs6zb0QA",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 1.2,
+      "timestamp": "2024-10-31T14:29:11.603364"
+    },
+    {
+      "conversation_id": "dd6550f7-0fe4-4bdb-bac8-d6748c7ddea6",
+      "external_user_id": "wm1NeYBwAACC1QgqvUSXdKDec4HfDB2g",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:29:12.126398"
+    },
+    {
+      "conversation_id": "fd633f32-366f-4900-8002-5a5eb73f2f9f",
+      "external_user_id": "wm1NeYBwAALj0Iwt6K10MLK1kDm__NxQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:13.580896"
+    },
+    {
+      "conversation_id": "dcdde262-fe0b-42bb-a689-20a2e3a0c442",
+      "external_user_id": "wm1NeYBwAAuUZHi6SWPmfuM5E5lUbAIA",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:14.691238"
+    },
+    {
+      "conversation_id": "ef3e6edd-4222-4b68-af4e-8364c51a8ea7",
+      "external_user_id": "wm1NeYBwAAMtl8ZAMMjivM60KFR6ri9Q",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:15.375377"
+    },
+    {
+      "conversation_id": "2ccea69d-bfd5-41c7-a415-c90a5ed0611f",
+      "external_user_id": "wm1NeYBwAA5CUdu7yi7kJckxEdkaai9w",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:18.498381"
+    },
+    {
+      "conversation_id": "4c21069c-2ea8-4a71-b5a3-531ecc524bd0",
+      "external_user_id": "wm1NeYBwAAmfch_vLS3-W0gCUEeoZgjA",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:18.983388"
+    },
+    {
+      "conversation_id": "87c7412a-0349-4355-a6dd-69d09febe690",
+      "external_user_id": "wm1NeYBwAAwooq4dL1MqAZk3Q-qkrHdw",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:29:20.889183"
+    },
+    {
+      "conversation_id": "43082f12-577a-4475-95ef-af31ef197dda",
+      "external_user_id": "wm1NeYBwAAIts8rSdk7qMFKOnJij11tA",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:21.687209"
+    },
+    {
+      "conversation_id": "b84fcf62-ac36-4106-b9af-a83cffe41179",
+      "external_user_id": "wm1NeYBwAA-vKS8R4rp4nKD5G3amAg9w",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:22.703302"
+    },
+    {
+      "conversation_id": "5608cce2-bf62-4b91-90bb-6c977b06b9f1",
+      "external_user_id": "wm1NeYBwAAPnpGhGQaj4jxjbOfi4A_Dg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:24.148374"
+    },
+    {
+      "conversation_id": "1c53d2f3-6da5-42da-876c-c8365975f8c7",
+      "external_user_id": "wm1NeYBwAA7bqvVXtphKjnH4omVqcbbw",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:29:24.968954"
+    },
+    {
+      "conversation_id": "f8864751-c29b-4334-8160-070f84f18cfa",
+      "external_user_id": "wm1NeYBwAAtcPqjQ7H4-JVns1o2WjPLg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:26.468043"
+    },
+    {
+      "conversation_id": "62aa6278-259f-47b9-a5fc-3473deb5b1fc",
+      "external_user_id": "wm1NeYBwAA9KL0_HgvPQrcEpQjCqW34w",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:26.955679"
+    },
+    {
+      "conversation_id": "2d787c5a-1861-4349-a8aa-ed06c796bbc7",
+      "external_user_id": "wm1NeYBwAAAEULAn_18yxEIyWYx4buSg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:27.434536"
+    },
+    {
+      "conversation_id": "cf3209cc-2e1e-4284-8e69-cb1eac09db41",
+      "external_user_id": "wm1NeYBwAAprBMeZlwWbunY3-4WG1abg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:29:32.245444"
+    },
+    {
+      "conversation_id": "ceaa21e8-9037-424e-9050-b09b69359f6f",
+      "external_user_id": "wm1NeYBwAAPnXHYLuCSMzPXYXO9xGPYg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:32.848119"
+    },
+    {
+      "conversation_id": "690dcc49-d927-4fac-ad3f-5c513e24db37",
+      "external_user_id": "wm1NeYBwAAZPKseo0IIyoqnncOJpb8-g",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:29:33.650977"
+    },
+    {
+      "conversation_id": "5a0d6814-e500-47ac-a350-48d9f398f09b",
+      "external_user_id": "wm1NeYBwAAiPpf6ytYal6yQaNqLPiyfg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:34.769256"
+    },
+    {
+      "conversation_id": "1efa21ce-6408-4668-8b59-a39adb10fd37",
+      "external_user_id": "wm1NeYBwAAPJr36kaNeQlhyMKSjWsIMg",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:29:36.002288"
+    },
+    {
+      "conversation_id": "1ccbf477-4825-493c-a20c-dc09112561fe",
+      "external_user_id": "wm1NeYBwAABQ8jIKKqJ_dtEXbhvJcq2A",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:36.496130"
+    },
+    {
+      "conversation_id": "b9e57ac5-759f-4ed2-acee-72d914fc2026",
+      "external_user_id": "wm1NeYBwAAJLSH3tgtxSxZDaL5lB6bOg",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:37.357436"
+    },
+    {
+      "conversation_id": "b08c6272-af9c-439a-89fe-53cde86dbdc2",
+      "external_user_id": "wm1NeYBwAAtM50VtjBJfThiw8tGG60sA",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:29:38.362085"
+    },
+    {
+      "conversation_id": "17de6dec-36a0-4f85-a2df-62d78dcafea7",
+      "external_user_id": "wm1NeYBwAAv4oHqZifzWGWtmLL4xThZQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:38.892077"
+    },
+    {
+      "conversation_id": "91c9eb67-c9a0-47c5-b808-35e5dd710b89",
+      "external_user_id": "wm1NeYBwAAIts8rSdk7qMFKOnJij11tA",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:41.072246"
+    },
+    {
+      "conversation_id": "544d99ff-806e-410a-8fa3-342444c32f10",
+      "external_user_id": "wm1NeYBwAAuGYiDUyq_RX5fQeDVIAd7Q",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:29:42.597215"
+    },
+    {
+      "conversation_id": "b529942d-0c43-4af0-af2b-aabf9b493f5a",
+      "external_user_id": "wm1NeYBwAAq7fHEKeTeYMkgA7CWgEQqQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:44.055027"
+    },
+    {
+      "conversation_id": "5ec889a7-2804-4fa1-bb59-057bf803a9b9",
+      "external_user_id": "wm1NeYBwAAoDSC5Qlk8eOVMPhLB_kA8A",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:29:44.544609"
+    },
+    {
+      "conversation_id": "654a6136-7c89-4f90-a8ba-3cf32d912069",
+      "external_user_id": "wm1NeYBwAAyR2ZccSwn4FMm_A8_Hls3A",
+      "question_obj": "商品使用",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:29:46.478253"
+    },
+    {
+      "conversation_id": "ede5b18d-d64d-4325-83e7-cfecca78f4ef",
+      "external_user_id": "wm1NeYBwAA_QQ7YQiOk6y23m8kvRg17g",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:46.970205"
+    },
+    {
+      "conversation_id": "c25e65c3-b37e-4f59-9ba2-7826923da2d1",
+      "external_user_id": "wm1NeYBwAAmnq87Tb96eDCD4V3iEdG8w",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:29:48.414515"
+    },
+    {
+      "conversation_id": "a909692d-922c-44c5-a6ab-72458661ee08",
+      "external_user_id": "wm1NeYBwAAwX7crJ7u0lX1BS-2jbm6qQ",
+      "question_obj": "商品使用",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:29:49.205251"
+    },
+    {
+      "conversation_id": "af7f3af7-fc2e-4971-9b96-f5e8b4c62164",
+      "external_user_id": "wm1NeYBwAAhIHJ3sQDvbVLcFvqH5ZQ2A",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:29:50.343049"
+    },
+    {
+      "conversation_id": "4951a6c2-97a9-4650-90f4-73e38d388f56",
+      "external_user_id": "wm1NeYBwAAGoiZFL6svaSC8xV8DaG5Gg",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:29:51.119357"
+    },
+    {
+      "conversation_id": "05a9001a-bbdc-43a0-b184-d416afe65c25",
+      "external_user_id": "wm1NeYBwAA_TbWKQJ9MZagL3d1FHYZYw",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:29:51.600963"
+    },
+    {
+      "conversation_id": "e88e30b3-779d-4e47-af99-6a8235b3fcbd",
+      "external_user_id": "wm1NeYBwAAHG-VUCHWmefvu67K5TBwsg",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 1.3,
+      "timestamp": "2024-10-31T14:29:52.112499"
+    },
+    {
+      "conversation_id": "421fc74c-764e-4b10-8ca4-15d54d09634f",
+      "external_user_id": "wm1NeYBwAANk-BkJuu7PE3yJeInyKFcA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:55.931192"
+    },
+    {
+      "conversation_id": "16bef3c7-e7eb-4c8e-b988-b782ad32f916",
+      "external_user_id": "wm1NeYBwAAT4Nm7oDoJ7g8stZObvejLA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:29:58.520132"
+    },
+    {
+      "conversation_id": "620c8548-cdac-449f-a1ca-70b31c9b5134",
+      "external_user_id": "wm1NeYBwAA_3YbvWUtrX3GUuA0PJfRfA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:29:59.002273"
+    },
+    {
+      "conversation_id": "0016032a-cf60-4077-8988-1066047a91a7",
+      "external_user_id": "wm1NeYBwAAtNDaau0ZLPtu0uxezOlRLQ",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.8,
+      "timestamp": "2024-10-31T14:30:00.062389"
+    },
+    {
+      "conversation_id": "df8668a0-7864-447a-928c-39d8aee915f5",
+      "external_user_id": "wm1NeYBwAAPUuIg7oeeVTB1R8dSpkqqA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:00.925353"
+    },
+    {
+      "conversation_id": "539dda16-cffb-4e32-a03e-6e2cc1d3bcf1",
+      "external_user_id": "wm1NeYBwAAvzzgjicAgrpDgzIEg5II9w",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:30:01.410413"
+    },
+    {
+      "conversation_id": "b0b54375-186b-468d-b880-3a74fb728c33",
+      "external_user_id": "wm1NeYBwAAQWdgrbKkQuX4GaiBE9gixA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:30:02.348615"
+    },
+    {
+      "conversation_id": "0307534b-57a7-4bd6-948a-80c8fbc9e535",
+      "external_user_id": "wm1NeYBwAAbUHgkcQ212kkQLJB4jUoaA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:02.831521"
+    },
+    {
+      "conversation_id": "ca3bc78d-ae30-4d02-92f6-fa9eb84f992c",
+      "external_user_id": "wm1NeYBwAALL8p3uW0kDubze5Vj6anxg",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:03.289520"
+    },
+    {
+      "conversation_id": "a61f24b1-cca5-415e-82e3-ccd921481abc",
+      "external_user_id": "wm1NeYBwAA-YIo_2Ou8nVHvoSCdHO9Sw",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:30:03.768131"
+    },
+    {
+      "conversation_id": "4b2ee5f9-770f-4475-a31c-55190e981f9a",
+      "external_user_id": "wm1NeYBwAAou9B9hiOCcHTjcDKWUFnsA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:08.101408"
+    },
+    {
+      "conversation_id": "e4460b50-f01a-4915-bcd5-e26570d06dbb",
+      "external_user_id": "wm1NeYBwAAILQgRJRaDZs-9eQss_rrmA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.3,
+      "timestamp": "2024-10-31T14:30:09.425449"
+    },
+    {
+      "conversation_id": "61408672-7bd3-4d5b-9ae8-e7e950c79e63",
+      "external_user_id": "wm1NeYBwAAlPVq2Jcec8SuD0wQxYOMXQ",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:30:10.349035"
+    },
+    {
+      "conversation_id": "4b3f8c73-a5e6-406a-b2c4-8688e105a0eb",
+      "external_user_id": "wm1NeYBwAAu5IEo-V7R2-3JOdyNUoYzA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:30:13.597950"
+    },
+    {
+      "conversation_id": "e6d27136-79ce-489a-b38f-18f2224e0404",
+      "external_user_id": "wm1NeYBwAA0ek3BYFzR5k_Nt1JLsW_MA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:30:14.100612"
+    },
+    {
+      "conversation_id": "1ab8bac1-e8ef-4f0d-9589-b75539c0bb96",
+      "external_user_id": "wm1NeYBwAAouH03M09xUTuSJwRKavH6Q",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.1,
+      "timestamp": "2024-10-31T14:30:14.562414"
+    },
+    {
+      "conversation_id": "c4b1e9f4-3ed3-484c-bc52-3523929a62a9",
+      "external_user_id": "wm1NeYBwAAuh_kIc7OMqJfhb2xTkBorg",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:14.562414"
+    },
+    {
+      "conversation_id": "dfd6085a-5171-4130-a857-03e7a4ff1690",
+      "external_user_id": "wm1NeYBwAAqfJcXvuCNQUh_RyGK891lQ",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:30:19.392500"
+    },
+    {
+      "conversation_id": "c275fdcc-0f5d-4770-beff-c184d2f81c28",
+      "external_user_id": "wm1NeYBwAAvCDHUTKZs7Bj50WB2Y7Ukg",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:20.238594"
+    },
+    {
+      "conversation_id": "65bb4a0d-de6d-407e-a4ec-5899b8053e42",
+      "external_user_id": "wm1NeYBwAA7CRzSufofaphGf8nYAKenw",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:30:20.721000"
+    },
+    {
+      "conversation_id": "ea92c2ad-a388-4200-a8ca-70e94f11c765",
+      "external_user_id": "wm1NeYBwAA0QcOJoEwSCf88y-CEfRcnw",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 1.1,
+      "timestamp": "2024-10-31T14:30:21.678950"
+    },
+    {
+      "conversation_id": "235c5036-eb49-40ec-8575-ba34e1aa6a48",
+      "external_user_id": "wm1NeYBwAAMVFrXgmEP_sCW7t1Xwlmgg",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.1,
+      "timestamp": "2024-10-31T14:30:24.446592"
+    },
+    {
+      "conversation_id": "c9ae3beb-c713-4db4-8f27-d766e939dbd8",
+      "external_user_id": "wm1NeYBwAAZo7LQjWL3VMoIpfair6u2g",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:30:24.935817"
+    },
+    {
+      "conversation_id": "64f56fb8-869e-47a2-a50d-f84f85779451",
+      "external_user_id": "wm1NeYBwAA8GA6HFOfjcxXMG0NYqa__g",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:30:24.936428"
+    },
+    {
+      "conversation_id": "2eede85b-54c7-4e35-aed9-22827d672a51",
+      "external_user_id": "wm1NeYBwAAqzXaGpMCPsEhyodiP55Wvw",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:25.881311"
+    },
+    {
+      "conversation_id": "b8c36a1c-e47b-4d2d-8017-3efedcd2f959",
+      "external_user_id": "wm1NeYBwAARmqwQOtxlZUWYMQfHA9vow",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:30:26.771197"
+    },
+    {
+      "conversation_id": "c1b34eda-14ad-40ab-a521-6a5c262ae760",
+      "external_user_id": "wm1NeYBwAAzGUiG_YMg52Y9B3FYTgW8A",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:30:28.337477"
+    },
+    {
+      "conversation_id": "235c9821-767a-4f92-8f8e-e730f0f0eb3d",
+      "external_user_id": "wm1NeYBwAAYZM8nV_o_Bbq4D3BPyDwxQ",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:30:31.726694"
+    },
+    {
+      "conversation_id": "b5071777-7116-47aa-a186-2efa1e2ec856",
+      "external_user_id": "wm1NeYBwAA-KykoHw-_pNPa-fB63DP9g",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.4,
+      "timestamp": "2024-10-31T14:30:32.209126"
+    },
+    {
+      "conversation_id": "29a894f7-2fb0-4786-991d-1d111d2a0774",
+      "external_user_id": "wm1NeYBwAA7eGiweSsOjTukVsn_Lx--A",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": null,
+      "timestamp": "2024-10-31T14:30:32.209733"
+    },
+    {
+      "conversation_id": "e479574d-8a80-4c00-8226-e8c3937baa22",
+      "external_user_id": "wm1NeYBwAA6UiStxWqOXLzO6_WN-k3gQ",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:33.131837"
+    },
+    {
+      "conversation_id": "d7794116-621d-4707-8cfc-0d62c0582db2",
+      "external_user_id": "wm1NeYBwAASGFSVAmj2j46FwfEzQClsQ",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:30:37.119718"
+    },
+    {
+      "conversation_id": "46fb17d1-99bd-4bea-9b1e-6fa6dc73ed2d",
+      "external_user_id": "wm1NeYBwAAMWF0VZq5EDDShQOn6JK0OA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:30:38.194853"
+    },
+    {
+      "conversation_id": "53a066ec-a268-45cd-91da-0ea748a4b820",
+      "external_user_id": "wm1NeYBwAANCjSLuMvKzUodjv-QceDtQ",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:30:38.694827"
+    },
+    {
+      "conversation_id": "2b3f889e-2f57-4a09-a39d-f182275e0884",
+      "external_user_id": "wm1NeYBwAAADsQPyMrMHqiHD5rquEtGg",
+      "question_obj": "催发货",
+      "status": "异常",
+      "total_score": 0.9,
+      "timestamp": "2024-10-31T14:30:38.695504"
+    },
+    {
+      "conversation_id": "876255ed-6284-488e-9ce3-45bfa5f990d0",
+      "external_user_id": "wm1NeYBwAAbUHgkcQ212kkQLJB4jUoaA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:38.695504"
+    },
+    {
+      "conversation_id": "23a24b6f-dab7-44bb-b94f-6198424e3df1",
+      "external_user_id": "wm1NeYBwAAN-taeikmheZ8o5boHNGKCg",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.5,
+      "timestamp": "2024-10-31T14:30:40.209728"
+    },
+    {
+      "conversation_id": "35b7e5c5-8160-46f7-b36b-fc41f9e2d005",
+      "external_user_id": "wm1NeYBwAA08VB8sSWSEs2h7PhvXMgUA",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.7,
+      "timestamp": "2024-10-31T14:30:41.443383"
+    },
+    {
+      "conversation_id": "589347bc-f1d7-4254-a508-9557a8826e53",
+      "external_user_id": "wm1NeYBwAAr9f-TdqNYzFWyIUAjDo_Aw",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": null,
+      "timestamp": "2024-10-31T14:30:43.920305"
+    },
+    {
+      "conversation_id": "21de2037-4894-4895-9818-a0c790f2d8d9",
+      "external_user_id": "wm1NeYBwAA9J2e8_Vkpvchvc8KQjcamw",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.2,
+      "timestamp": "2024-10-31T14:30:44.451418"
+    },
+    {
+      "conversation_id": "b404dedf-73e5-418a-93aa-4a9f327c24a2",
+      "external_user_id": "wm1NeYBwAARoo5GZFjAbxBwWZkIt4Oww",
+      "question_obj": "催发货",
+      "status": "正常",
+      "total_score": 0.6,
+      "timestamp": "2024-10-31T14:30:45.399251"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "timestamp": "2024-10-31T11:44:11.523270",
+  "total_conversations": 8,
+  "statistics": {
+    "status_counts": {
+      "正常": 6,
+      "异常": 2
+    },
+    "abnormal_conversations": [
+      {
+        "conversation_id": "80b2ff68-350f-4cab-94a4-1ff7f4218fbc",
+        "external_user_id": "wm1NeYBwAAxStayiENowboWsCTJf8gTQ",
+        "question_obj": "订单咨询"
+      },
+      {
+        "conversation_id": "7ec6f165-6791-4ee4-9393-40335d498bba",
+        "external_user_id": "wm1NeYBwAAvO8yEPP3Xh9nDhSckrZE_Q",
+        "question_obj": "物流配送"
+      }
+    ]
+  }
+}

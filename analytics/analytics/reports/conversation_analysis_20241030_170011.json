@@ -1,0 +1,320 @@
+{
+  "analysis_results": [
+    {
+      "conversation_id": "e2e7f3b8-eb32-4447-b3b9-a9238110ae46",
+      "external_user_id": "wm1NeYBwAAZixqEbDxpM2XuhtB-UYrZw",
+      "analysis_result": {
+        "id": "34c024e7-b4b3-475a-b045-987f62429135",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 408,
+          "completion_tokens": 6,
+          "total_tokens": 414,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 280
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:04.932641"
+    },
+    {
+      "conversation_id": "e87f589a-6e99-4dc6-a9ae-8ec12dd2d09d",
+      "external_user_id": "wm1NeYBwAATvEZ8ntWn8xp13C1LaHZBQ",
+      "analysis_result": {
+        "id": "84f33643-5114-42e8-bf48-d40d8aac0c6b",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 412,
+          "completion_tokens": 6,
+          "total_tokens": 418,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 284
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:05.016077"
+    },
+    {
+      "conversation_id": "8cb46fd0-49d6-40a3-88cf-b8ab10281711",
+      "external_user_id": "wm1NeYBwAAWjIc9mn68be8DQJEKm3P3g",
+      "analysis_result": {
+        "id": "a4b58604-bbdc-4774-8b35-ebb10eb07c92",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 718,
+          "completion_tokens": 6,
+          "total_tokens": 724,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 590
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:05.044150"
+    },
+    {
+      "conversation_id": "77775b01-7564-468d-b9ab-05a181fc9a8d",
+      "external_user_id": "wm1NeYBwAA-nS-OtkNIxZyyB5iu93LlA",
+      "analysis_result": {
+        "id": "340bfa9f-96d3-485e-8333-a631a60594db",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 442,
+          "completion_tokens": 6,
+          "total_tokens": 448,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 314
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:05.180699"
+    },
+    {
+      "conversation_id": "da2dd966-34bd-482e-8f05-8a37fe04f9f7",
+      "external_user_id": "wm1NeYBwAA_9xkBdR56Mn51qlpLxCRWg",
+      "analysis_result": {
+        "id": "32b5e01c-21c4-4fbf-aad1-84d69426f8df",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**: 正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 420,
+          "completion_tokens": 6,
+          "total_tokens": 426,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 292
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:05.183584"
+    },
+    {
+      "conversation_id": "24d86d5d-58ea-46e7-8b3d-74b2a52421e7",
+      "external_user_id": "wm1NeYBwAATOIwN4X7QqRjmqcOWCBmbQ",
+      "analysis_result": {
+        "id": "7862381e-a9ab-4316-9a0b-819514abe102",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 316,
+          "completion_tokens": 6,
+          "total_tokens": 322,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 188
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:05.184282"
+    },
+    {
+      "conversation_id": "e252e2ba-86cc-4d5d-93fb-daa8386c62af",
+      "external_user_id": "wm1NeYBwAA3KZCmZ12DobEjVFyG_o2zA",
+      "analysis_result": {
+        "id": "a806a696-a98c-4a2a-b9f8-8d4f24ffe58c",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**: 正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 529,
+          "completion_tokens": 6,
+          "total_tokens": 535,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 401
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:05.188624"
+    },
+    {
+      "conversation_id": "05e76c07-50cc-4c67-83ed-f02d8455a0c7",
+      "external_user_id": "wm1NeYBwAAxUwtPO6Svmctg9zr-VBcrg",
+      "analysis_result": {
+        "id": "d3349312-10bf-4267-bd1b-3f921e4fa9cc",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**: 正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 517,
+          "completion_tokens": 6,
+          "total_tokens": 523,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 389
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:05.806972"
+    },
+    {
+      "conversation_id": "cad92811-0f34-4c88-b8e3-6fb10a44977b",
+      "external_user_id": "wm1NeYBwAATJCc9Oiq48aklRTw9VDQTQ",
+      "analysis_result": {
+        "id": "899edcdd-5a3d-49b6-886c-f38da806cc2b",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**输出结果**：异常\n\n**分析**：\n1. **用户是否表达不满**：用户询问“你家没有运费险吗”，这可能暗示用户对运费问题有所不满或疑惑。\n2. **问题是否得到解决**：虽然助理解释了运费报销的流程，但用户最初的问题“你家没有运费险吗”并没有得到直接回答。用户可能仍然不清楚是否有运费险。\n\n因此，根据规则，判定为“异常”。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 427,
+          "completion_tokens": 108,
+          "total_tokens": 535,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 299
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:10.733065"
+    },
+    {
+      "conversation_id": "c3fb78d1-c1ea-48c3-a635-66bc919aa888",
+      "external_user_id": "wm1NeYBwAArcpcXt2kW6wqoZQou_eISg",
+      "analysis_result": {
+        "id": "e6ad5df4-bab4-40c5-b143-71d497078db6",
+        "object": "chat.completion",
+        "created": 1730278805,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**分析结果**：\n\n1. **用户是否表达不满**：\n   - 用户询问“双11有啥优惠”，但没有表达不满情绪。\n\n2. **问题是否得到解决**：\n   - 用户询问“双11有啥优惠”，但助手回答“目前还没有收到双十一活动的通知哦”，这表明用户的问题没有得到解决。\n\n**输出结果**：\n- 由于用户的问题没有得到解决，判定为“异常”。\n\n**最终结果**：异常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 363,
+          "completion_tokens": 114,
+          "total_tokens": 477,
+          "prompt_cache_hit_tokens": 128,
+          "prompt_cache_miss_tokens": 235
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-30T17:00:11.097738"
+    }
+  ],
+  "statistics": {
+    "status_counts": {
+      "正常": 8,
+      "异常": 2
+    },
+    "abnormal_conversations": [
+      {
+        "conversation_id": "cad92811-0f34-4c88-b8e3-6fb10a44977b",
+        "external_user_id": "wm1NeYBwAATJCc9Oiq48aklRTw9VDQTQ"
+      },
+      {
+        "conversation_id": "c3fb78d1-c1ea-48c3-a635-66bc919aa888",
+        "external_user_id": "wm1NeYBwAArcpcXt2kW6wqoZQou_eISg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,841 @@
+{
+  "analysis_results": [
+    {
+      "conversation_id": "bed565bd-9df6-4718-b596-74f4119aba8d",
+      "external_user_id": "wm1NeYBwAA6F7YHLX7SeDXSAtys_N1pQ",
+      "question_obj": "订单咨询",
+      "analysis_result": {
+        "id": "0e728509-b72f-409d-a7e4-f0a44e37c908",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 783,
+          "completion_tokens": 1,
+          "total_tokens": 784,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 207
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:34.617815"
+    },
+    {
+      "conversation_id": "10b34abf-2160-4a19-b9a6-97fdac123040",
+      "external_user_id": "wm1NeYBwAAsgdRVFGRVkRidU4r1Le16Q",
+      "question_obj": "服务投诉",
+      "analysis_result": {
+        "id": "b327bc05-005c-4948-a7d6-e61a39814608",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 719,
+          "completion_tokens": 1,
+          "total_tokens": 720,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 143
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:35.101132"
+    },
+    {
+      "conversation_id": "f7308d21-4709-4b1d-b8cd-c63b553b2945",
+      "external_user_id": "wm1NeYBwAAJG6vE7RM_BWGuxeWuvD3rQ",
+      "question_obj": "订单咨询",
+      "analysis_result": {
+        "id": "86b74a16-1409-48cc-a75e-300f78572ec1",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**检测结果**:\n\n`正常`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 878,
+          "completion_tokens": 9,
+          "total_tokens": 887,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 302
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:35.559923"
+    },
+    {
+      "conversation_id": "7f197611-9436-43f0-9ee5-4f6ed471ccc5",
+      "external_user_id": "wm1NeYBwAAfZF8yuUUmpB3SeNCFbSZAw",
+      "question_obj": "服务投诉",
+      "analysis_result": {
+        "id": "e736ff94-6c8b-4e9c-81eb-639eb034d7b7",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "异常 - 未能识别用户需求，用户反复询问相同问题。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1427,
+          "completion_tokens": 14,
+          "total_tokens": 1441,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 851
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:36.022545"
+    },
+    {
+      "conversation_id": "d186f8bd-8547-4a0f-9a74-f178336888b7",
+      "external_user_id": "wm1NeYBwAAiTvxjTJqU7xLjKGuva-g8A",
+      "question_obj": "服务投诉",
+      "analysis_result": {
+        "id": "22794b48-c3eb-4689-92e3-07187579b746",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 941,
+          "completion_tokens": 16,
+          "total_tokens": 957,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 365
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:36.023013"
+    },
+    {
+      "conversation_id": "f53d0210-695f-44f9-816d-0c09060ad498",
+      "external_user_id": "wm1NeYBwAA9U2QHmVI2qKsmDepCgHwcw",
+      "question_obj": "物流配送",
+      "analysis_result": {
+        "id": "60f329fe-798a-427c-a80a-89b8a0391352",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 812,
+          "completion_tokens": 16,
+          "total_tokens": 828,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 236
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:36.023013"
+    },
+    {
+      "conversation_id": "0ecd1af3-4fe2-4032-884c-0d1b9b314f8f",
+      "external_user_id": "wm1NeYBwAAdqNGPz1RT7dK8ccOS4s2_g",
+      "question_obj": "操作指引",
+      "analysis_result": {
+        "id": "d357c248-5b31-4112-928b-1a06df64f7c0",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未直接回答用户的问题，导致用户产生困惑。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 719,
+          "completion_tokens": 16,
+          "total_tokens": 735,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 143
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:36.023723"
+    },
+    {
+      "conversation_id": "f45de4c1-f6c5-4cc3-9fe3-71df074039e0",
+      "external_user_id": "wm1NeYBwAA-oTWER8_rH-4MPzncZEr1A",
+      "question_obj": "订单咨询",
+      "analysis_result": {
+        "id": "e32b3b15-9b83-4df4-8b8d-0e6943db454e",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 891,
+          "completion_tokens": 16,
+          "total_tokens": 907,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 315
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:36.023723"
+    },
+    {
+      "conversation_id": "73a7cf67-66aa-4236-9415-2ec0270d1a16",
+      "external_user_id": "wm1NeYBwAA1Z4jWl7Pjjno71bOWq4whA",
+      "question_obj": "操作指引",
+      "analysis_result": {
+        "id": "51c83f53-5fae-4c48-a5b2-6fc878986b4e",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1081,
+          "completion_tokens": 16,
+          "total_tokens": 1097,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 505
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:36.024344"
+    },
+    {
+      "conversation_id": "4620089c-b803-4aa5-bd83-468edd511dba",
+      "external_user_id": "wm1NeYBwAAKAqsBea8_XJhbgJKwNE5tw",
+      "question_obj": "操作指引",
+      "analysis_result": {
+        "id": "718b93f0-78ca-47ff-b32a-7303ee951499",
+        "object": "chat.completion",
+        "created": 1730344894,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未直接回答用户的问题，导致用户产生困惑。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 770,
+          "completion_tokens": 16,
+          "total_tokens": 786,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 194
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:36.024344"
+    },
+    {
+      "conversation_id": "49849db7-c73e-4c5c-a5fd-cce6386e9a5f",
+      "external_user_id": "wm1NeYBwAANNq5upVpEyWVSyfI1Xt_nw",
+      "question_obj": "报销",
+      "analysis_result": {
+        "id": "c2b1a58d-7281-4e67-b7a2-14dc54bea5c3",
+        "object": "chat.completion",
+        "created": 1730344900,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 721,
+          "completion_tokens": 1,
+          "total_tokens": 722,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 145
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:40.110849"
+    },
+    {
+      "conversation_id": "69fa37f1-852d-4e31-8497-68f70a1d4eb6",
+      "external_user_id": "wm1NeYBwAAQD0M3rLZ63y8UVOdz9N87Q",
+      "question_obj": "物流配送",
+      "analysis_result": {
+        "id": "284ca6f0-44d4-4d0c-8f01-ad7fb04d09fc",
+        "object": "chat.completion",
+        "created": 1730344900,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`正常`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 813,
+          "completion_tokens": 3,
+          "total_tokens": 816,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 237
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:40.591585"
+    },
+    {
+      "conversation_id": "6ecca901-347e-44b7-ad9f-65c7e08882b9",
+      "external_user_id": "wm1NeYBwAApbtRDs0JhPo_QLY3r4VyaA",
+      "question_obj": "报销",
+      "analysis_result": {
+        "id": "3db2d97f-bfdb-4bdb-b8e6-1cd8ff78602a",
+        "object": "chat.completion",
+        "created": 1730344899,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**检测结果**：\n- `正常`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 831,
+          "completion_tokens": 10,
+          "total_tokens": 841,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 255
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:40.592199"
+    },
+    {
+      "conversation_id": "8a5d27b9-b159-489a-982f-d3e16ed0e9e7",
+      "external_user_id": "wm1NeYBwAAmnjfJDB0y3MLO3wmbhP4vA",
+      "question_obj": "报销",
+      "analysis_result": {
+        "id": "f56f4343-0beb-4852-831e-f2eb6ead3d5a",
+        "object": "chat.completion",
+        "created": 1730344899,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 901,
+          "completion_tokens": 16,
+          "total_tokens": 917,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 325
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:41.510937"
+    },
+    {
+      "conversation_id": "30725817-c11a-4f02-81cd-d5a73e8a211d",
+      "external_user_id": "wm1NeYBwAA2W4vzKWU-NNkxAH09YTO7g",
+      "question_obj": "维修",
+      "analysis_result": {
+        "id": "821e47a9-34f2-4718-8b50-f53c0868d4e9",
+        "object": "chat.completion",
+        "created": 1730344899,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1232,
+          "completion_tokens": 16,
+          "total_tokens": 1248,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 656
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:41.511361"
+    },
+    {
+      "conversation_id": "bdb67b90-fd5a-42dd-ba04-4f9b520730d7",
+      "external_user_id": "wm1NeYBwAAuxvkMVhhv4G0_4-Ezy4Ozw",
+      "question_obj": "物流配送",
+      "analysis_result": {
+        "id": "1dba59d6-1736-40ae-b97f-3a3a8d2eb400",
+        "object": "chat.completion",
+        "created": 1730344899,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 895,
+          "completion_tokens": 16,
+          "total_tokens": 911,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 319
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:41.511361"
+    },
+    {
+      "conversation_id": "a23074b6-271f-46a7-aac9-3ee15a518a9c",
+      "external_user_id": "wm1NeYBwAA6xL5_Gb7eqkfpLS4a6N4yQ",
+      "question_obj": "商品使用",
+      "analysis_result": {
+        "id": "ceec32aa-57ce-4dc2-84d3-7e80c101b2a3",
+        "object": "chat.completion",
+        "created": 1730344900,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1014,
+          "completion_tokens": 16,
+          "total_tokens": 1030,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 438
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:41.512041"
+    },
+    {
+      "conversation_id": "8fe126f7-a5d9-45c5-b26a-e910f39bef5b",
+      "external_user_id": "wm1NeYBwAAXMCmULRlwODTRwfhBg9RPg",
+      "question_obj": "维修",
+      "analysis_result": {
+        "id": "35629f3b-de90-4112-93ba-3d24d0ce6a5c",
+        "object": "chat.completion",
+        "created": 1730344899,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 860,
+          "completion_tokens": 16,
+          "total_tokens": 876,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 284
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:41.512041"
+    },
+    {
+      "conversation_id": "f015d5b5-ca92-4bf5-b2d4-765d058df681",
+      "external_user_id": "wm1NeYBwAAthf-ieop1gbjwamSGBoXUQ",
+      "question_obj": "催发货",
+      "analysis_result": {
+        "id": "3c192541-8398-4168-8a86-69f8fb2dcec3",
+        "object": "chat.completion",
+        "created": 1730344902,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "正常"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 678,
+          "completion_tokens": 1,
+          "total_tokens": 679,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 102
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:42.744802"
+    },
+    {
+      "conversation_id": "5b591cc8-f85b-43c4-948a-b8667b388069",
+      "external_user_id": "wm1NeYBwAAELCvlyKU1-uyi82vkQ8uVg",
+      "question_obj": "催发货",
+      "analysis_result": {
+        "id": "b6ab9fe6-8afe-4125-97f7-3c4f5f41412d",
+        "object": "chat.completion",
+        "created": 1730344902,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未能识别用户需求，用户反复询问相同问题。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 801,
+          "completion_tokens": 16,
+          "total_tokens": 817,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 225
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:43.426895"
+    },
+    {
+      "conversation_id": "ae7eb7f4-e5c0-477e-9a12-ab369b91f39e",
+      "external_user_id": "wm1NeYBwAAZ30lkS2jzKiRXIFECjqcwQ",
+      "question_obj": "商品使用",
+      "analysis_result": {
+        "id": "643a918f-dffa-428b-a2c4-8cb0d88d4160",
+        "object": "chat.completion",
+        "created": 1730344902,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "`异常 - 未直接回答用户的问题，导致用户产生困惑。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1416,
+          "completion_tokens": 16,
+          "total_tokens": 1432,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 840
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:43.432782"
+    },
+    {
+      "conversation_id": "24f72771-8cc0-40ce-a993-6a8808949bb9",
+      "external_user_id": "wm1NeYBwAAbn-iN6Z1EPmMMssMQaobFw",
+      "question_obj": "催发货",
+      "analysis_result": {
+        "id": "f1fd80e4-d049-491c-9ed3-de0598d6c894",
+        "object": "chat.completion",
+        "created": 1730344902,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**检测结果**：\n`异常 - 未直接回答用户的问题，导致用户产生困惑。`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 682,
+          "completion_tokens": 22,
+          "total_tokens": 704,
+          "prompt_cache_hit_tokens": 640,
+          "prompt_cache_miss_tokens": 42
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:43.690435"
+    },
+    {
+      "conversation_id": "54229632-7804-414d-a3e4-90a9537194ab",
+      "external_user_id": "wm1NeYBwAAe4PwscoCtJSVVZw3HTy3wQ",
+      "question_obj": "商品使用",
+      "analysis_result": {
+        "id": "4b00ea3e-9404-417b-899c-ac4ed8d7692f",
+        "object": "chat.completion",
+        "created": 1730344900,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**检测结果**: `异常 - 未能识别用户需求，用户反复询问相同问题。`\n\n**具体原因**: 用户多次提出需要微信联系或提供美国当地号码，表明客服未能及时满足用户的主要需求。尽管对话结束时用户表现出满意情绪（如“好的，您先休息”），但整体上未能有效解决用户的核心需求，导致用户反复询问相同问题。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 984,
+          "completion_tokens": 84,
+          "total_tokens": 1068,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 408
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:44.008861"
+    },
+    {
+      "conversation_id": "1b558b69-2efc-484a-8bd8-d8034d1c289f",
+      "external_user_id": "wm1NeYBwAAXNOJ8w24gn7Iw6WlqDJgxA",
+      "question_obj": "维修",
+      "analysis_result": {
+        "id": "c53a4ede-c907-4cb6-82d1-74d1609bd795",
+        "object": "chat.completion",
+        "created": 1730344900,
+        "model": "deepseek-chat",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "**检测结果**：\n`异常 - 未直接回答用户的问题，导致用户产生困惑。`\n\n**分析过程**：\n1. **未识别用户需求，导致重复沟通或用户不满**：\n   - 用户提供了一个订单号，并提到“菜鸟”，可能是询问物流状态或包裹处理情况。\n   - 客服回应“已反馈哈亲 辛苦您耐心等待商家维修后给您寄回呢”，并未直接回答用户的问题，导致用户可能继续追问。\n   - 用户未表现出满意情绪，因此不满足“正常”条件。\n\n2. **未提供优惠或灵活的解决方案**：\n   - 对话中未涉及价格或优惠问题，此条不适用。\n\n3. **未能减少用户操作步骤，导致用户体验不佳**：\n   - 对话中未涉及用户操作步骤问题，此条不适用。\n\n4. **未直接回答用户的问题**：\n   - 用户提供订单号并提到“菜鸟”，可能是询问物流状态或包裹处理情况。\n   - 客服未直接回答用户的问题，而是反馈商家已发送短信，导致用户可能产生困惑。\n\n综上所述，对话中客服未直接回答用户的问题，导致用户产生困惑，因此判定为“异常”。"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 705,
+          "completion_tokens": 280,
+          "total_tokens": 985,
+          "prompt_cache_hit_tokens": 576,
+          "prompt_cache_miss_tokens": 129
+        },
+        "system_fingerprint": "fp_1c141eb703"
+      },
+      "timestamp": "2024-10-31T11:21:53.787680"
+    }
+  ],
+  "statistics": {
+    "status_counts": {
+      "正常": 7,
+      "异常": 17
+    },
+    "abnormal_conversations": [
+      {
+        "conversation_id": "7f197611-9436-43f0-9ee5-4f6ed471ccc5",
+        "external_user_id": "wm1NeYBwAAfZF8yuUUmpB3SeNCFbSZAw",
+        "question_obj": "服务投诉"
+      },
+      {
+        "conversation_id": "d186f8bd-8547-4a0f-9a74-f178336888b7",
+        "external_user_id": "wm1NeYBwAAiTvxjTJqU7xLjKGuva-g8A",
+        "question_obj": "服务投诉"
+      },
+      {
+        "conversation_id": "f53d0210-695f-44f9-816d-0c09060ad498",
+        "external_user_id": "wm1NeYBwAA9U2QHmVI2qKsmDepCgHwcw",
+        "question_obj": "物流配送"
+      },
+      {
+        "conversation_id": "0ecd1af3-4fe2-4032-884c-0d1b9b314f8f",
+        "external_user_id": "wm1NeYBwAAdqNGPz1RT7dK8ccOS4s2_g",
+        "question_obj": "操作指引"
+      },
+      {
+        "conversation_id": "f45de4c1-f6c5-4cc3-9fe3-71df074039e0",
+        "external_user_id": "wm1NeYBwAA-oTWER8_rH-4MPzncZEr1A",
+        "question_obj": "订单咨询"
+      },
+      {
+        "conversation_id": "73a7cf67-66aa-4236-9415-2ec0270d1a16",
+        "external_user_id": "wm1NeYBwAA1Z4jWl7Pjjno71bOWq4whA",
+        "question_obj": "操作指引"
+      },
+      {
+        "conversation_id": "4620089c-b803-4aa5-bd83-468edd511dba",
+        "external_user_id": "wm1NeYBwAAKAqsBea8_XJhbgJKwNE5tw",
+        "question_obj": "操作指引"
+      },
+      {
+        "conversation_id": "8a5d27b9-b159-489a-982f-d3e16ed0e9e7",
+        "external_user_id": "wm1NeYBwAAmnjfJDB0y3MLO3wmbhP4vA",
+        "question_obj": "报销"
+      },
+      {
+        "conversation_id": "30725817-c11a-4f02-81cd-d5a73e8a211d",
+        "external_user_id": "wm1NeYBwAA2W4vzKWU-NNkxAH09YTO7g",
+        "question_obj": "维修"
+      },
+      {
+        "conversation_id": "bdb67b90-fd5a-42dd-ba04-4f9b520730d7",
+        "external_user_id": "wm1NeYBwAAuxvkMVhhv4G0_4-Ezy4Ozw",
+        "question_obj": "物流配送"
+      },
+      {
+        "conversation_id": "a23074b6-271f-46a7-aac9-3ee15a518a9c",
+        "external_user_id": "wm1NeYBwAA6xL5_Gb7eqkfpLS4a6N4yQ",
+        "question_obj": "商品使用"
+      },
+      {
+        "conversation_id": "8fe126f7-a5d9-45c5-b26a-e910f39bef5b",
+        "external_user_id": "wm1NeYBwAAXMCmULRlwODTRwfhBg9RPg",
+        "question_obj": "维修"
+      },
+      {
+        "conversation_id": "5b591cc8-f85b-43c4-948a-b8667b388069",
+        "external_user_id": "wm1NeYBwAAELCvlyKU1-uyi82vkQ8uVg",
+        "question_obj": "催发货"
+      },
+      {
+        "conversation_id": "ae7eb7f4-e5c0-477e-9a12-ab369b91f39e",
+        "external_user_id": "wm1NeYBwAAZ30lkS2jzKiRXIFECjqcwQ",
+        "question_obj": "商品使用"
+      },
+      {
+        "conversation_id": "24f72771-8cc0-40ce-a993-6a8808949bb9",
+        "external_user_id": "wm1NeYBwAAbn-iN6Z1EPmMMssMQaobFw",
+        "question_obj": "催发货"
+      },
+      {
+        "conversation_id": "54229632-7804-414d-a3e4-90a9537194ab",
+        "external_user_id": "wm1NeYBwAAe4PwscoCtJSVVZw3HTy3wQ",
+        "question_obj": "商品使用"
+      },
+      {
+        "conversation_id": "1b558b69-2efc-484a-8bd8-d8034d1c289f",
+        "external_user_id": "wm1NeYBwAAXNOJ8w24gn7Iw6WlqDJgxA",
+        "question_obj": "维修"
+      }
+    ]
+  }
+}

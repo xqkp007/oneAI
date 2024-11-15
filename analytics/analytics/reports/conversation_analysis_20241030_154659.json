@@ -1,0 +1,1561 @@
+{
+  "analysis_results": [
+    {
+      "conversation_id": "a12b0f2e-ff82-4e91-a676-d06116f008c1",
+      "analysis_result": {
+        "id": "7e1a5d75-0821-4d3c-b38c-995ae4d51710",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274355,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1960,
+          "total_tokens": 1961,
+          "prompt_cache_hit_tokens": 1920,
+          "prompt_cache_miss_tokens": 40
+        }
+      },
+      "timestamp": "2024-10-30T15:45:55.149008"
+    },
+    {
+      "conversation_id": "b82cde5f-17ff-435a-9671-4f97cb4bf7b3",
+      "analysis_result": {
+        "id": "109fe843-aa34-4783-9252-bc18a53a0e0c",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "分类标签输出: 抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274356,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 6,
+          "prompt_tokens": 1436,
+          "total_tokens": 1442,
+          "prompt_cache_hit_tokens": 1408,
+          "prompt_cache_miss_tokens": 28
+        }
+      },
+      "timestamp": "2024-10-30T15:45:56.290575"
+    },
+    {
+      "conversation_id": "efb858eb-2e42-4cfa-abce-f6228fd515a5",
+      "analysis_result": {
+        "id": "04571275-13fd-4eae-bede-8d72f49774a5",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274357,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1494,
+          "total_tokens": 1495,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 150
+        }
+      },
+      "timestamp": "2024-10-30T15:45:56.962153"
+    },
+    {
+      "conversation_id": "842d13a7-fc72-444f-9ef8-84a194c6d686",
+      "analysis_result": {
+        "id": "1e6e1ca1-cfd0-43c8-9afb-a4437ed6e0bf",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "立减金",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274358,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 1870,
+          "total_tokens": 1873,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 526
+        }
+      },
+      "timestamp": "2024-10-30T15:45:57.861332"
+    },
+    {
+      "conversation_id": "6482bf15-718b-4917-84c9-01ad963c5957",
+      "analysis_result": {
+        "id": "ee28430d-14f5-48bd-bd01-f728eecf1cbf",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "参团卡",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274359,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 1611,
+          "total_tokens": 1614,
+          "prompt_cache_hit_tokens": 1600,
+          "prompt_cache_miss_tokens": 11
+        }
+      },
+      "timestamp": "2024-10-30T15:45:58.650165"
+    },
+    {
+      "conversation_id": "7cb70a58-93f2-4634-87c7-fcdbb707d10d",
+      "analysis_result": {
+        "id": "e389ca87-cc79-42fe-ae29-546bfab7715f",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "红包",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274360,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1553,
+          "total_tokens": 1554,
+          "prompt_cache_hit_tokens": 1536,
+          "prompt_cache_miss_tokens": 17
+        }
+      },
+      "timestamp": "2024-10-30T15:45:59.136338"
+    },
+    {
+      "conversation_id": "c4516537-4726-4735-ab18-bd0f7a9004dd",
+      "analysis_result": {
+        "id": "7269b1f1-3482-4ba1-9fec-05575969981a",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "红包",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274360,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1557,
+          "total_tokens": 1558,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 213
+        }
+      },
+      "timestamp": "2024-10-30T15:45:59.739575"
+    },
+    {
+      "conversation_id": "02488ab0-084e-4573-9e05-cc0d0ffc0134",
+      "analysis_result": {
+        "id": "0bf997f7-274d-4a46-9086-7aa6e323e374",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274361,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1613,
+          "total_tokens": 1614,
+          "prompt_cache_hit_tokens": 1600,
+          "prompt_cache_miss_tokens": 13
+        }
+      },
+      "timestamp": "2024-10-30T15:46:00.239182"
+    },
+    {
+      "conversation_id": "0b9a10f8-ef83-4286-8c48-0964653f33ff",
+      "analysis_result": {
+        "id": "124d79c1-5652-42d0-97fa-3aedf42a9441",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274361,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1847,
+          "total_tokens": 1848,
+          "prompt_cache_hit_tokens": 1792,
+          "prompt_cache_miss_tokens": 55
+        }
+      },
+      "timestamp": "2024-10-30T15:46:01.022312"
+    },
+    {
+      "conversation_id": "a898ce07-e1a7-4f5f-bb25-22758aca6c88",
+      "analysis_result": {
+        "id": "ad986fad-2eac-4913-848e-a83a78a01879",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "### 分析结果\n\n**主意图识别**:\n- 用户对话中明确提到“买件200元的衣服，给个券”，核心需求是获取优惠券或津贴以降低购买成本。\n- 虽然对话中提到“200元津贴”，但用户的主要目标是获取优惠，而非具体了解津贴的详细信息。\n\n**分类判断**:\n- 根据用户的主要需求和对话内容，最贴切的分类是“商品最优购买方式”，因为用户希望了解如何通过优惠券或津贴实现最优购买。\n\n**分类标签输出**:\n- 商品最优购买方式",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274362,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 136,
+          "prompt_tokens": 1449,
+          "total_tokens": 1585,
+          "prompt_cache_hit_tokens": 1408,
+          "prompt_cache_miss_tokens": 41
+        }
+      },
+      "timestamp": "2024-10-30T15:46:08.616399"
+    },
+    {
+      "conversation_id": "3a9ea317-457c-4442-afee-ad6ac0b94762",
+      "analysis_result": {
+        "id": "4ff5cde4-6461-447f-97a3-8401bc5b4948",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "**分类标签输出**: 立减金",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274370,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 9,
+          "prompt_tokens": 1538,
+          "total_tokens": 1547,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 194
+        }
+      },
+      "timestamp": "2024-10-30T15:46:09.956189"
+    },
+    {
+      "conversation_id": "99883934-a5f8-4431-ae2c-09bdde913643",
+      "analysis_result": {
+        "id": "74a8b112-2ceb-4d08-938a-e2b04b5f6812",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274371,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1530,
+          "total_tokens": 1531,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 186
+        }
+      },
+      "timestamp": "2024-10-30T15:46:11.282317"
+    },
+    {
+      "conversation_id": "4c095e98-52e0-4fbd-a2c3-c1d9ca5de376",
+      "analysis_result": {
+        "id": "dc23454e-5e7a-449f-98cc-ac592dfa5157",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274372,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1493,
+          "total_tokens": 1494,
+          "prompt_cache_hit_tokens": 1472,
+          "prompt_cache_miss_tokens": 21
+        }
+      },
+      "timestamp": "2024-10-30T15:46:12.077216"
+    },
+    {
+      "conversation_id": "675ec93c-ed51-484a-afb4-0205fcbf2009",
+      "analysis_result": {
+        "id": "a98b992b-a3dc-4f51-8ecc-9829be32cb8c",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274373,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1584,
+          "total_tokens": 1585,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 240
+        }
+      },
+      "timestamp": "2024-10-30T15:46:12.737357"
+    },
+    {
+      "conversation_id": "54c9dcdd-baec-43af-ac8b-9856bff6a465",
+      "analysis_result": {
+        "id": "0125a038-c934-443b-b376-ef48c1ff0388",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "立减金",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274374,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 1827,
+          "total_tokens": 1830,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 483
+        }
+      },
+      "timestamp": "2024-10-30T15:46:13.589019"
+    },
+    {
+      "conversation_id": "4ed4c95d-5aaa-411f-bc00-8abc845d2152",
+      "analysis_result": {
+        "id": "46193d15-1e66-4aef-ab62-c33c2bf77bc9",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "分类标签输出：抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274374,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 1469,
+          "total_tokens": 1474,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 125
+        }
+      },
+      "timestamp": "2024-10-30T15:46:14.449276"
+    },
+    {
+      "conversation_id": "1572db94-e1f3-4700-a1b7-cf1bfcdc7d1d",
+      "analysis_result": {
+        "id": "3c3fcc41-0253-4a06-b184-57a998d10b78",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274375,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1483,
+          "total_tokens": 1484,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 139
+        }
+      },
+      "timestamp": "2024-10-30T15:46:15.250358"
+    },
+    {
+      "conversation_id": "aead5d46-94bf-452b-ab92-1110988142df",
+      "analysis_result": {
+        "id": "76a88f85-3053-4cc4-ae22-af156bb882e6",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "**分类标签输出**：参团卡",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274376,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 9,
+          "prompt_tokens": 1680,
+          "total_tokens": 1689,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 336
+        }
+      },
+      "timestamp": "2024-10-30T15:46:16.412531"
+    },
+    {
+      "conversation_id": "2cba4e6b-d9d4-49df-915c-5c3f8e57db03",
+      "analysis_result": {
+        "id": "e0d569cd-8003-4142-8e10-d6b9bd1b08c5",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274377,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1578,
+          "total_tokens": 1579,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 234
+        }
+      },
+      "timestamp": "2024-10-30T15:46:17.222233"
+    },
+    {
+      "conversation_id": "aefb1df8-d54c-41fa-8489-20db7c15a0bb",
+      "analysis_result": {
+        "id": "d288562e-c9b0-4fa1-97ae-b57fe8789632",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274378,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1518,
+          "total_tokens": 1519,
+          "prompt_cache_hit_tokens": 1472,
+          "prompt_cache_miss_tokens": 46
+        }
+      },
+      "timestamp": "2024-10-30T15:46:17.888704"
+    },
+    {
+      "conversation_id": "ff78c55c-7165-473f-b6fb-f95347bc1914",
+      "analysis_result": {
+        "id": "2ab16af2-aaff-4f84-831f-acaac48d4fad",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "### 分析结果\n\n**分类标签输出**: 抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274379,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 13,
+          "prompt_tokens": 1576,
+          "total_tokens": 1589,
+          "prompt_cache_hit_tokens": 1536,
+          "prompt_cache_miss_tokens": 40
+        }
+      },
+      "timestamp": "2024-10-30T15:46:19.276255"
+    },
+    {
+      "conversation_id": "4a541958-10cb-4cbd-80c4-1a0b4b997147",
+      "analysis_result": {
+        "id": "0e983072-eac2-4e59-ac2c-99dc207f967e",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274380,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1508,
+          "total_tokens": 1509,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 164
+        }
+      },
+      "timestamp": "2024-10-30T15:46:19.933541"
+    },
+    {
+      "conversation_id": "d4ce4111-5b46-4f31-9231-ea9495db7220",
+      "analysis_result": {
+        "id": "1839b37c-a9da-4022-8b1c-6fa133449ed0",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274381,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1675,
+          "total_tokens": 1676,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 331
+        }
+      },
+      "timestamp": "2024-10-30T15:46:20.614388"
+    },
+    {
+      "conversation_id": "e6dbe653-b439-4330-b13a-5e6f5d7a62b9",
+      "analysis_result": {
+        "id": "578c640e-2efd-430b-b05c-175e05526c55",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274381,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1653,
+          "total_tokens": 1654,
+          "prompt_cache_hit_tokens": 1600,
+          "prompt_cache_miss_tokens": 53
+        }
+      },
+      "timestamp": "2024-10-30T15:46:21.333201"
+    },
+    {
+      "conversation_id": "0971e0a8-5a88-4250-8cb7-313f4bc43625",
+      "analysis_result": {
+        "id": "c66a9acf-8672-4564-9199-0a894b89a3f8",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "**分类标签输出**: 红包",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274382,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 7,
+          "prompt_tokens": 1772,
+          "total_tokens": 1779,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 428
+        }
+      },
+      "timestamp": "2024-10-30T15:46:22.328265"
+    },
+    {
+      "conversation_id": "ca80ec0b-ca2c-4be1-80e6-29ef22ffbc51",
+      "analysis_result": {
+        "id": "95489189-cdc6-4c0e-a986-173fd066d03c",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "**分类标签输出**: 商品最优购买方式",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274383,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 11,
+          "prompt_tokens": 1716,
+          "total_tokens": 1727,
+          "prompt_cache_hit_tokens": 1664,
+          "prompt_cache_miss_tokens": 52
+        }
+      },
+      "timestamp": "2024-10-30T15:46:23.703601"
+    },
+    {
+      "conversation_id": "1118032f-53c4-4bb8-a4d9-e96cfeed6519",
+      "analysis_result": {
+        "id": "2f93d031-7f5c-46a1-8755-923705da2e56",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "**分类标签输出**: 商品最优购买方式",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274385,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 11,
+          "prompt_tokens": 1621,
+          "total_tokens": 1632,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 277
+        }
+      },
+      "timestamp": "2024-10-30T15:46:25.235026"
+    },
+    {
+      "conversation_id": "d52101cf-cb95-4cf7-a4df-1f1b118d4a40",
+      "analysis_result": {
+        "id": "2890a455-3e82-4610-80b6-b31be072bc0b",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "**分类标签输出**：红包",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274386,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 7,
+          "prompt_tokens": 1485,
+          "total_tokens": 1492,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 141
+        }
+      },
+      "timestamp": "2024-10-30T15:46:26.418277"
+    },
+    {
+      "conversation_id": "0838d724-2e6f-4bde-bd80-5386a814b064",
+      "analysis_result": {
+        "id": "51ff8f15-f5f0-46ae-a23c-7c2ce496f57c",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274387,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1470,
+          "total_tokens": 1471,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 126
+        }
+      },
+      "timestamp": "2024-10-30T15:46:27.041198"
+    },
+    {
+      "conversation_id": "54029518-9b39-430d-9709-ed66f3ded8e3",
+      "analysis_result": {
+        "id": "64d7aee4-51b0-4269-9fbb-6c9dc5b64775",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274388,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1495,
+          "total_tokens": 1496,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 151
+        }
+      },
+      "timestamp": "2024-10-30T15:46:27.743145"
+    },
+    {
+      "conversation_id": "5017a099-68aa-4136-b13c-ce32e6433c68",
+      "analysis_result": {
+        "id": "4a85ac4f-4cbf-4778-8de9-7e7a568c87fe",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "参团卡",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274389,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 1489,
+          "total_tokens": 1492,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 145
+        }
+      },
+      "timestamp": "2024-10-30T15:46:28.804220"
+    },
+    {
+      "conversation_id": "e3cf107a-c5ef-4d8c-b32c-8c34e77c725e",
+      "analysis_result": {
+        "id": "58436791-93c7-4aee-990c-39d0f8734661",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274390,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1696,
+          "total_tokens": 1697,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 352
+        }
+      },
+      "timestamp": "2024-10-30T15:46:29.654638"
+    },
+    {
+      "conversation_id": "243dc345-baf8-4c89-b518-360091cab23a",
+      "analysis_result": {
+        "id": "48b9f318-9155-484a-b13c-062635036ffb",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274391,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1611,
+          "total_tokens": 1612,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 267
+        }
+      },
+      "timestamp": "2024-10-30T15:46:30.387150"
+    },
+    {
+      "conversation_id": "2c581828-2644-4369-b6dd-93680ee44563",
+      "analysis_result": {
+        "id": "e841f16f-c7dc-45a0-9ecf-b5ec06e0d286",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274391,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1982,
+          "total_tokens": 1983,
+          "prompt_cache_hit_tokens": 1920,
+          "prompt_cache_miss_tokens": 62
+        }
+      },
+      "timestamp": "2024-10-30T15:46:31.164226"
+    },
+    {
+      "conversation_id": "51d91a46-f0e3-4a59-b614-230c65a38666",
+      "analysis_result": {
+        "id": "a67b38a3-8ec3-49f9-8b50-610c2d0b616f",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274392,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1567,
+          "total_tokens": 1568,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 223
+        }
+      },
+      "timestamp": "2024-10-30T15:46:31.810417"
+    },
+    {
+      "conversation_id": "6ab8ccad-8b2c-4ce5-b8cc-5a6a03888dd1",
+      "analysis_result": {
+        "id": "e6748274-e9a3-4d80-87c1-ce41915f4a09",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274393,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1718,
+          "total_tokens": 1719,
+          "prompt_cache_hit_tokens": 1664,
+          "prompt_cache_miss_tokens": 54
+        }
+      },
+      "timestamp": "2024-10-30T15:46:32.738135"
+    },
+    {
+      "conversation_id": "94eeaebc-a5d0-48c4-a80c-2ec88792a8f2",
+      "analysis_result": {
+        "id": "d05c1ae0-acb6-45df-942d-e4baa1ffd2bf",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274394,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1660,
+          "total_tokens": 1661,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 316
+        }
+      },
+      "timestamp": "2024-10-30T15:46:33.296182"
+    },
+    {
+      "conversation_id": "dd2f8ed8-00e9-4353-9bce-333f57ee035f",
+      "analysis_result": {
+        "id": "e13f85f2-3eec-465e-ad3c-bea180255a04",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274394,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1642,
+          "total_tokens": 1643,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 298
+        }
+      },
+      "timestamp": "2024-10-30T15:46:33.860224"
+    },
+    {
+      "conversation_id": "42fd08a6-be30-4488-96b6-d3d8d0e3416b",
+      "analysis_result": {
+        "id": "67848447-7fe0-48a5-a045-f871c326900a",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "商品最优购买方式",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274395,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 1887,
+          "total_tokens": 1892,
+          "prompt_cache_hit_tokens": 1856,
+          "prompt_cache_miss_tokens": 31
+        }
+      },
+      "timestamp": "2024-10-30T15:46:34.921034"
+    },
+    {
+      "conversation_id": "967aa2e8-9e55-456f-b091-0316f2381ceb",
+      "analysis_result": {
+        "id": "d851b482-86a3-4ae0-ac1d-8fe1b5189c3d",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "分类标签输出: 津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274396,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 6,
+          "prompt_tokens": 1574,
+          "total_tokens": 1580,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 230
+        }
+      },
+      "timestamp": "2024-10-30T15:46:35.834157"
+    },
+    {
+      "conversation_id": "689dfca0-c8e7-495d-88f5-514bb1339665",
+      "analysis_result": {
+        "id": "f2242c59-3093-45d8-bb14-8f4a65d2d7f2",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "**分类标签输出**: 参团卡",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274397,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 9,
+          "prompt_tokens": 1769,
+          "total_tokens": 1778,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 425
+        }
+      },
+      "timestamp": "2024-10-30T15:46:37.030223"
+    },
+    {
+      "conversation_id": "52b09ea9-4065-4dfe-a3b0-5997dba4db18",
+      "analysis_result": {
+        "id": "6314d8e5-baf2-4307-8732-dfaf089063c0",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "商品最优购买方式",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274398,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 1718,
+          "total_tokens": 1723,
+          "prompt_cache_hit_tokens": 1664,
+          "prompt_cache_miss_tokens": 54
+        }
+      },
+      "timestamp": "2024-10-30T15:46:40.798633"
+    },
+    {
+      "conversation_id": "89b27d32-f74c-4afb-aef0-b28f569646ad",
+      "analysis_result": {
+        "id": "7f296948-f5f6-41e8-8751-3c624f4b272c",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "抽奖",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274402,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1455,
+          "total_tokens": 1456,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 111
+        }
+      },
+      "timestamp": "2024-10-30T15:46:41.580201"
+    },
+    {
+      "conversation_id": "5672a579-b0ff-40de-9fe7-4296f09747a8",
+      "analysis_result": {
+        "id": "69515148-19eb-432e-b0f2-87cca975009e",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "红包",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274402,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1722,
+          "total_tokens": 1723,
+          "prompt_cache_hit_tokens": 1664,
+          "prompt_cache_miss_tokens": 58
+        }
+      },
+      "timestamp": "2024-10-30T15:46:42.093154"
+    },
+    {
+      "conversation_id": "6149fe2f-b611-449e-ba47-b243b6c4b8c7",
+      "analysis_result": {
+        "id": "9cc0b4e7-cee9-40f0-9f1c-26d29e48bff7",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274403,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1748,
+          "total_tokens": 1749,
+          "prompt_cache_hit_tokens": 1728,
+          "prompt_cache_miss_tokens": 20
+        }
+      },
+      "timestamp": "2024-10-30T15:46:42.840220"
+    },
+    {
+      "conversation_id": "1407a1fc-00d5-4741-a0dd-852f776f1203",
+      "analysis_result": {
+        "id": "d605586e-4c56-4c2c-95bf-19b4ce7031cc",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "商品最优购买方式",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274404,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 1616,
+          "total_tokens": 1621,
+          "prompt_cache_hit_tokens": 1600,
+          "prompt_cache_miss_tokens": 16
+        }
+      },
+      "timestamp": "2024-10-30T15:46:43.828201"
+    },
+    {
+      "conversation_id": "5f0a577b-4e54-4bee-9e0f-0e88e58cac81",
+      "analysis_result": {
+        "id": "72d4cda4-1d60-4c1e-9474-6bd5a34b72b6",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "### 分析结果\n\n**主意图识别流程**:\n1. **对话内容通览与分析**:\n   - 用户首先提出购买眼镜的需求，随后询问优惠链接。\n   - 助手回应提供划算的购买方式，并提及200津贴的链接。\n   - 用户未进一步询问津贴的具体使用方式，而是直接表示“好”，表明其主要关注点在于如何通过优惠购买眼镜。\n\n2. **优先级判断**:\n   - 对话中用户的核心需求是“买眼镜”，并希望获得“优惠链接”，助手也提到“划算的购买方式”。\n   - 尽管助手提及了“200津贴”，但用户并未询问津贴的具体使用方式或条件，而是直接表示“好”，表明其主要关注点在于如何通过优惠购买眼镜。\n\n3. **细致分类判断标准**:\n   - 根据“商品最优购买方式”的定义，用户希望咨询如何使用优惠实现最优购买方式，对话中用户的主要问题是“买眼镜的优惠链接发我一下哈”，助手回应也围绕“划算的购买方式”展开。\n\n**分类标签输出**:\n- 商品最优购买方式",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274405,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 260,
+          "prompt_tokens": 1510,
+          "total_tokens": 1770,
+          "prompt_cache_hit_tokens": 1344,
+          "prompt_cache_miss_tokens": 166
+        }
+      },
+      "timestamp": "2024-10-30T15:46:57.385386"
+    },
+    {
+      "conversation_id": "d079313a-314a-450a-a546-adab01b16eca",
+      "analysis_result": {
+        "id": "bc9329f4-d065-4131-8b01-cc5254c96acf",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274418,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1619,
+          "total_tokens": 1620,
+          "prompt_cache_hit_tokens": 1600,
+          "prompt_cache_miss_tokens": 19
+        }
+      },
+      "timestamp": "2024-10-30T15:46:58.064791"
+    },
+    {
+      "conversation_id": "71dd3102-5fe8-49a6-8c8a-fbb5c733e7f4",
+      "analysis_result": {
+        "id": "30c4bfd0-79c5-4b7b-99a5-9ad1b302b79a",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "商品最优购买方式",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274419,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 2067,
+          "total_tokens": 2072,
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 2067
+        }
+      },
+      "timestamp": "2024-10-30T15:46:58.986354"
+    },
+    {
+      "conversation_id": "382d43e0-8888-4c74-80d3-776c6f8d1812",
+      "analysis_result": {
+        "id": "1efbc32c-ac1c-40e4-af5f-cd36d3f2c0b6",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "津贴",
+              "role": "assistant",
+              "function_call": null,
+              "tool_calls": null
+            },
+            "logprobs": null
+          }
+        ],
+        "created": 1730274420,
+        "model": "deepseek-chat",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_1c141eb703",
+        "usage": {
+          "completion_tokens": 1,
+          "prompt_tokens": 1511,
+          "total_tokens": 1512,
+          "prompt_cache_hit_tokens": 1472,
+          "prompt_cache_miss_tokens": 39
+        }
+      },
+      "timestamp": "2024-10-30T15:46:59.666861"
+    }
+  ],
+  "statistics": {
+    "status_counts": {
+      "正常": 50,
+      "异常": 0
+    },
+    "abnormal_conversations": []
+  }
+}
